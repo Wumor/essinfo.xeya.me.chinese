@@ -862,7 +862,7 @@
       "Essentials",
       "kill",
       "essentials.kill.force",
-      "即使事件被取消，也强制玩家死亡"
+      "即使事件被取消，也会强制玩家死亡"
     ],
     [
       "Essentials",
