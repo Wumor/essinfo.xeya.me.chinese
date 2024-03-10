@@ -1,0 +1,1117 @@
+{
+  "data": [
+    [
+      "Essentials",
+      "editsign",
+      "sign, esign, eeditsign",
+      "编辑指示牌",
+      "/<命令> <set/clear/copy/paste> [行号] [文本]"
+    ],
+    [
+      "Essentials",
+      "repair",
+      "fix, efix, erepair",
+      "修复一个或所有物品的耐久度",
+      "/<命令> [hand|all]"
+    ],
+    [
+      "Essentials",
+      "msgtoggle",
+      "emsgtoggle",
+      "屏蔽接收所有私人消息",
+      "/<命令> [玩家] [on|off]"
+    ],
+    [
+      "Essentials",
+      "setjail",
+      "esetjail, createjail, ecreatejail",
+      "在你指定的位置创建一个自定义名称的监狱。",
+      "/<命令> <监狱名>"
+    ],
+    [
+      "Essentials",
+      "settpr",
+      "[esettpr, settprandom, esettprandom]",
+      "设置随机传送地点和参数",
+      "/<命令> [center|minrange|maxrange] [value]"
+    ],
+    [
+      "Essentials",
+      "help",
+      "ehelp",
+      "查看可用命令列表",
+      "/<命令> [search term] [页码]"
+    ],
+    [
+      "Essentials",
+      "clearinventoryconfirmtoggle",
+      "eclearinventoryconfirmtoggle, clearinventoryconfirmoff, eclearinventoryconfirmoff, clearconfirmoff, eclearconfirmoff, clearconfirmon, eclearconfirmon, clearconfirm, eclearconfirm",
+      "切换是否在清理库存时提示确认",
+      "/<命令>"
+    ],
+    [
+      "Essentials",
+      "mute",
+      "emute, silence, esilence",
+      "静音或取消静音一个玩家",
+      "/<命令> <玩家> [时间差]"
+    ],
+    [
+      "Essentials",
+      "spawner",
+      "changems, echangems, espawner, mobspawner, emobspawner",
+      "更改刷怪笼中的生物种类",
+      "/<命令> <生物> [delay]"
+    ],
+    [
+      "Essentials",
+      "deljail",
+      "edeljail, remjail, eremjail, rmjail, ermjail",
+      "移除一个监狱",
+      "/<命令> <监狱名>"
+    ],
+    [
+      "Essentials",
+      "powertool",
+      "epowertool, pt, ept",
+      "将命令分配给手中的物品\r\n\r\n使用 'c:' 作为命令来创建聊天宏\r\n使用 'a:' 来附加多个命令\r\n使用 'r:' 来移除单个命令\r\n使用 'l:' 来列出所有动力工具\r\n使用 'd:' 来移除所有动力工具\r\n",
+      "/<命令> [l:|a:|r:|c:|d:][命令] [arguments]\r\n({玩家} 可以被替换为点击的玩家的名字)\r\n"
+    ],
+    [
+      "Essentials",
+      "weather",
+      "rain, erain, sky, esky, storm, estorm, sun, esun, eweather",
+      "设定天气",
+      "/<命令> <storm\/sun> [duration]"
+    ],
+    [
+      "Essentials",
+      "gc",
+      "lag, elag, egc, mem, emem, memory, ememory, uptime, euptime, tps, etps, entities, eentities",
+      "报告内存、运行时间和tick信息",
+      "/<命令>"
+    ],
+    [
+      "Essentials",
+      "delhome",
+      "edelhome, remhome, eremhome, rmhome, ermhome",
+      "移除一个家",
+      "/<命令> [玩家:]<name>"
+    ],
+    [
+      "Essentials",
+      "enderchest",
+      "echest, eechest, eenderchest, endersee, eendersee, ec, eec",
+      "查看末影箱内部",
+      "/<命令> [玩家]"
+    ],
+    [
+      "Essentials",
+      "powertooltoggle",
+      "epowertooltoggle, ptt, eptt, pttoggle, epttoggle",
+      "启用或禁用所有当前的动力工具",
+      "/<命令>"
+    ],
+    [
+      "Essentials",
+      "kickall",
+      "ekickall",
+      "踢除服务器上除了发出者以外的所有玩家",
+      "/<命令> [原因]"
+    ],
+    [
+      "Essentials",
+      "speed",
+      "flyspeed, eflyspeed, fspeed, efspeed, espeed, walkspeed, ewalkspeed, wspeed, ewspeed",
+      "更改行走或飞行速度",
+      "/<命令> [type] <速度> [玩家]"
+    ],
+    [
+      "Essentials",
+      "tpall",
+      "etpall",
+      "将所有在线玩家传送至另一玩家",
+      "/<命令> [玩家]"
+    ],
+    [
+      "Essentials",
+      "suicide",
+      "esuicide",
+      "自杀",
+      "/<命令>"
+    ],
+    [
+      "Essentials",
+      "whois",
+      "ewhois",
+      "显示玩家信息",
+      "/<命令> <昵称|玩家名>"
+    ],
+    [
+      "Essentials",
+      "essentials",
+      "eessentials, ess, eess, essversion",
+      "重新加载essentials并具有一些调试功能",
+      "/<命令> [debug|verbose|ver|version|cmd|commands|dump|reload|reset|cleanup|homes|uuidconvert|uuidtest|nya|nyan|moo]"
+    ],
+    [
+      "Essentials",
+      "tptoggle",
+      "etptoggle",
+      "阻止所有形式的传送",
+      "/<命令> [玩家] [on|off]"
+    ],
+    [
+      "Essentials",
+      "disposal",
+      "edisposal, trash, etrash",
+      "打开一个可携带的垃圾桶菜单",
+      "/<命令>"
+    ],
+    [
+      "Essentials",
+      "top",
+      "etop",
+      "传送至当前位置的最高方块上",
+      "/<命令>"
+    ],
+    [
+      "Essentials",
+      "gamemode",
+      "adventure, eadventure, adventuremode, eadventuremode, creative, eecreative, creativemode, ecreativemode, egamemode, gm, egm, gma, egma, gmc, egmc, gms, egms, gmt, egmt, survival, esurvival, survivalmode, esurvivalmode, gmsp, sp, egmsp, spec, spectator",
+      "改变玩家的游戏模式",
+      "/<命令>\n<survival|creative|adventure|spectator>\n[玩家]"
+    ],
+    [
+      "Essentials",
+      "condense",
+      "econdense, compact, ecompact, blocks, eblocks, toblocks, etoblocks",
+      "将物品压缩成更加紧凑的块",
+      " /<命令> [itemname]"
+    ],
+    [
+      "Essentials",
+      "tp",
+      "tele, etele, teleport, eteleport, etp, tp2p, etp2p",
+      "传送到一个玩家",
+      "/<命令> <玩家> [其他玩家]"
+    ],
+    [
+      "Essentials",
+      "tpoffline",
+      "otp, offlinetp, tpoff, tpoffline",
+      "传送到玩家的最后已知登出位置",
+      "/<命令> <玩家>"
+    ],
+    [
+      "Essentials",
+      "setworth",
+      "esetworth",
+      "设定一个物品的售卖价值",
+      "/<命令> [itemname|id] <price>"
+    ],
+    [
+      "Essentials",
+      "spawnmob",
+      "mob, emob, spawnentity, espawnentity, espawnmob",
+      "生成一个怪物",
+      "/<命令> <mob>[:data][,<mount>[:data]] [数量] [玩家]"
+    ],
+    [
+      "Essentials",
+      "book",
+      "ebook",
+      "允许重新打开和编辑密封的书籍",
+      "/<命令> [title|author [name]]"
+    ],
+    [
+      "Essentials",
+      "time",
+      "day, eday, night, enight, etime",
+      "显示/更改世界时间，默认为当前世界",
+      "/<命令> [day|night|dawn|17:30|4pm|4000ticks] [世界名|all]"
+    ],
+    [
+      "Essentials",
+      "tpaall",
+      "etpaall",
+      "请求所有在线玩家传送到你这里",
+      "/<命令> <玩家>"
+    ],
+    [
+      "Essentials",
+      "mail",
+      "email, eemail, memo, ememo",
+      "管理玩家间的邮件",
+      "/<命令> [read|clear|clear [number]|send [to] [message]|sendtemp [to] [expire time] [message]|sendall [message]]"
+    ],
+    [
+      "Essentials",
+      "hat",
+      "ehat, head, ehead",
+      "获得一些新颖的头饰",
+      "/<命令> [remove]"
+    ],
+    [
+      "Essentials",
+      "worth",
+      "eprice, price, eworth",
+      "计算手中或指定物品的价值",
+      "/<命令> <<itemname>|<id>|hand|inventory|blocks> [-][数量]"
+    ],
+    [
+      "Essentials",
+      "kick",
+      "ekick",
+      "踢出指定玩家并附带原因",
+      "/<命令> <玩家> [原因]"
+    ],
+    [
+      "Essentials",
+      "more",
+      "emore",
+      "将手中物品堆叠数量填满至指定数量或最大",
+      "/<命令> [数量]"
+    ],
+    [
+      "Essentials",
+      "info",
+      "about, eabout, ifo, eifo, einfo, inform, einform, news, enews",
+      "显示服务器所有者设定的信息",
+      "/<命令> [chapter] [page]"
+    ],
+    [
+      "Essentials",
+      "tpahere",
+      "etpahere",
+      "请求指定玩家传送到你这里",
+      "/<命令> <玩家>"
+    ],
+    [
+      "Essentials",
+      "realname",
+      "erealname",
+      "根据昵称显示用户的用户名",
+      "/<命令> <昵称>"
+    ],
+    [
+      "Essentials",
+      "bigtree",
+      "ebigtree, largetree, elargetree",
+      "在你看的地方生成一棵大树",
+      "/<命令> <tree|redwood|jungle>"
+    ],
+    [
+      "Essentials",
+      "rest",
+      "erest",
+      "让你或指定玩家休息",
+      "/<命令> [玩家]"
+    ],
+    [
+      "Essentials",
+      "rules",
+      "erules",
+      "查看服务器规则",
+      "/<命令> [chapter] [page]"
+    ],
+    [
+      "Essentials",
+      "recipe",
+      "formula, eformula, method, emethod, erecipe, recipes, erecipes",
+      "显示如何制作物品",
+      "/<命令> <item> [number]"
+    ],
+    [
+      "Essentials",
+      "sethome",
+      "esethome, createhome, ecreatehome",
+      "将当前位置设为家",
+      "/<命令> [玩家:]<家的名字>"
+    ],
+    [
+      "Essentials",
+      "pweather",
+      "playerweather, eplayerweather, epweather",
+      "调整玩家的天气",
+      "/<命令> [list|reset|storm|sun|clear] [玩家|*]"
+    ],
+    [
+      "Essentials",
+      "setwarp",
+      "createwarp, ecreatewarp, esetwarp",
+      "创建一个新的传送点",
+      "/<命令> <warp>"
+    ],
+    [
+      "Essentials",
+      "delwarp",
+      "edelwarp, remwarp, eremwarp, rmwarp, ermwarp",
+      "删除指定的传送点",
+      "/<命令> <warp>"
+    ],
+    [
+      "Essentials",
+      "warpinfo",
+      "ewarpinfo",
+      "查找指定传送点的位置信息",
+      "/<命令> <warp>"
+    ],
+    [
+      "Essentials",
+      "warp",
+      "ewarp, warps, ewarps",
+      "列出所有传送点或传送到指定位置",
+      "/<命令> <pagenumber|warp> [玩家]"
+    ],
+    [
+      "Essentials",
+      "break",
+      "ebreak",
+      "破坏你正在看的方块",
+      "/<命令>"
+    ],
+    [
+      "Essentials",
+      "msg",
+      "w, m, t, pm, emsg, epm, tell, etell, whisper, ewhisper",
+      "向指定玩家发送私人消息",
+      "/<命令> <收件人> <消息内容>"
+    ],
+    [
+      "Essentials",
+      "compass",
+      "ecompass, direction, edirection",
+      "描述你当前的方位",
+      "/<命令>"
+    ],
+    [
+      "Essentials",
+      "world",
+      "eworld",
+      "在不同的世界之间切换",
+      "/<命令> [世界名]"
+    ],
+    [
+      "Essentials",
+      "me",
+      "action, eaction, describe, edescribe, eme",
+      "以玩家的身份描述一个动作",
+      "/<命令> <description>"
+    ],
+    [
+      "Essentials",
+      "payconfirmtoggle",
+      "epayconfirmtoggle, payconfirmoff, epayconfirmoff, payconfirmon, epayconfirmon, payconfirm, epayconfirm",
+      "切换是否在支付时提示您进行确认",
+      "/<命令>"
+    ],
+    [
+      "Essentials",
+      "ext",
+      "eext, extinguish, eextinguish",
+      "给玩家灭火",
+      "/<命令> [玩家]"
+    ],
+    [
+      "Essentials",
+      "broadcastworld",
+      "bcw, ebcw, bcastw, ebcastw, ebroadcastworld, shoutworld, eshoutworld",
+      "向世界广播消息",
+      "/<命令> <世界名> <msg>"
+    ],
+    [
+      "Essentials",
+      "toggleshout",
+      "etoggleshout",
+      "切换你是否在大声模式下说话",
+      "/<命令> [玩家] [on|off]"
+    ],
+    [
+      "Essentials",
+      "togglejail",
+      "jail, ejail, tjail, etjail, etogglejail, unjail, eunjail",
+      "监禁\/解禁一个玩家，传送他们到指定的监狱",
+      "/<命令> <玩家> <监狱名> [datediff]"
+    ],
+    [
+      "Essentials",
+      "jails",
+      "ejails",
+      "列出所有监狱",
+      "/<命令>"
+    ],
+    [
+      "Essentials",
+      "list",
+      "elist, online, eonline, playerlist, eplayerlist, plist, eplist, who, ewho",
+      "列出所有在线玩家",
+      "/<命令> [group]"
+    ],
+    [
+      "Essentials",
+      "remove",
+      "eremove, butcher, ebutcher, killall, ekillall, mobkill, emobkill",
+      "移除你世界中的实体",
+      "/<命令> <all|tamed|named|drops|arrows|boats|\nminecarts|xp|paintings|item|endercrystals|\nmonsters|animals|ambient|mobs|[mobType]> [radius|world]"
+    ],
+    [
+      "Essentials",
+      "lightning",
+      "elightning, shock, eshock, smite, esmite, strike, estrike, thor, ethor",
+      "雷神之力，打击光标位置或一个玩家",
+      "/<命令> [玩家] [power]"
+    ],
+    [
+      "Essentials",
+      "ice",
+      "eice, efreeze",
+      "使玩家冷却下来",
+      "/<命令> [玩家]"
+    ],
+    [
+      "Essentials",
+      "ignore",
+      "eignore, unignore, eunignore, delignore, edelignore, remignore, eremignore, rmignore, ermignore",
+      "忽略或取消忽略其他玩家",
+      "/<命令> <玩家>"
+    ],
+    [
+      "Essentials",
+      "item",
+      "i, eitem, ei",
+      "生成一个物品",
+      "/<命令> <item|numeric> [数量 [item...]]"
+    ],
+    [
+      "Essentials",
+      "near",
+      "enear, nearby, enearby",
+      "列出附近的玩家或一个玩家附近指定半径的玩家",
+      "/<命令> [玩家名] [半径]"
+    ],
+    [
+      "Essentials",
+      "firework",
+      "efirework",
+      "允许你修改一堆烟花",
+      "/<命令> <<meta param>|power [数量]|clear|fire [数量]>"
+    ],
+    [
+      "Essentials",
+      "invsee",
+      "einvsee",
+      "查看和/或编辑其他玩家的物品栏",
+      "/<命令> <玩家> [armor]"
+    ],
+    [
+      "Essentials",
+      "balancetop",
+      "ebalancetop, baltop, ebaltop",
+      "玩家财富排行榜",
+      "/<命令> [page]"
+    ],
+    [
+      "Essentials",
+      "ban",
+      "eban",
+      "踢出一个玩家",
+      "/<命令> <玩家> [原因]"
+    ],
+    [
+      "Essentials",
+      "kill",
+      "ekill",
+      "杀死指定玩家",
+      "/<命令> <玩家>"
+    ],
+    [
+      "Essentials",
+      "balance",
+      "bal, ebal, ebalance, money, emoney",
+      "查看一个玩家的余额",
+      "/<命令> [玩家]"
+    ],
+    [
+      "Essentials",
+      "enchant",
+      "eenchant, enchantment, eenchantment",
+      "给玩家手持的物品附魔",
+      "/<命令> <enchantmentname> [level]"
+    ],
+    [
+      "Essentials",
+      "banip",
+      "ebanip",
+      "封禁一个IP地址",
+      "/<命令> <ip地址> [原因]"
+    ],
+    [
+      "Essentials",
+      "socialspy",
+      "esocialspy",
+      "切换是否可以在聊天中看到消息/邮件命令",
+      "/<命令> [玩家] [on|off]"
+    ],
+    [
+      "Essentials",
+      "workbench",
+      "craft, ecraft, wb, ewb, wbench, ewbench, eworkbench",
+      "打开一个工作台",
+      "/<命令>"
+    ],
+    [
+      "Essentials",
+      "anvil",
+      "eanvil",
+      "打开一个铁砧",
+      "/<命令>"
+    ],
+    [
+      "Essentials",
+      "cartographytable",
+      "ecartographytable, carttable, ecarttable",
+      "打开一个制图台",
+      "/<命令>"
+    ],
+    [
+      "Essentials",
+      "grindstone",
+      "egrindstone",
+      "打开一个砂轮",
+      "/<命令>"
+    ],
+    [
+      "Essentials",
+      "loom",
+      "eloom",
+      "打开一个织布机",
+      "/<命令>"
+    ],
+    [
+      "Essentials",
+      "smithingtable",
+      "esmithingtable, smithtable, esmithtable",
+      "打开一个锻造台",
+      "/<命令>"
+    ],
+    [
+      "Essentials",
+      "stonecutter",
+      "estonecutter",
+      "打开一个切石机",
+      "/<命令>"
+    ],
+    [
+      "Essentials",
+      "motd",
+      "emotd",
+      "查看每日消息",
+      "/<命令> [chapter] [page]"
+    ],
+    [
+      "Essentials",
+      "ptime",
+      "playertime, eplayertime, eptime",
+      "调整玩家客户端的时间。添加 @ 前缀来固定",
+      "/<命令> [list|reset|day|night|dawn|17:30|4pm|4000ticks] [玩家|*]"
+    ],
+    [
+      "Essentials",
+      "give",
+      "egive",
+      "给玩家一个物品",
+      "/<命令> <玩家> <item|numeric> [数量 [itemmeta...]]"
+    ],
+    [
+      "Essentials",
+      "tree",
+      "etree",
+      "在你看的地方生成一棵树",
+      "/<命令> <tree|birch|redwood|redmushroom|\nbrownmushroom|jungle|junglebush|swamp>"
+    ],
+    [
+      "Essentials",
+      "tpacancel",
+      "etpacancel",
+      "取消所有未完成的传送请求。指定[玩家]以取消与他们的请求",
+      "/<命令> [玩家]"
+    ],
+    [
+      "Essentials",
+      "sudo",
+      "esudo",
+      "让另一个玩家执行一个命令",
+      "/<命令> <玩家> <命令 [args]>"
+    ],
+    [
+      "Essentials",
+      "back",
+      "eback, return, ereturn",
+      "将你传送到在使用传送/出生点/瞬移命令之前的位置",
+      "/<命令>"
+    ],
+    [
+      "Essentials",
+      "jump",
+      "j, ej, ejump, jumpto, ejumpto",
+      "跳转到视线中最近的方块",
+      "/<命令>"
+    ],
+    [
+      "Essentials",
+      "fly",
+      "efly",
+      "起飞，然后翱翔！",
+      "/<命令> [玩家] [on|off]"
+    ],
+    [
+      "Essentials",
+      "potion",
+      "epotion, elixer, eelixer",
+      "向药水添加自定义药水效果",
+      "/<命令> <clear|apply|effect:<effect> power:<power> duration:<duration>>"
+    ],
+    [
+      "Essentials",
+      "seen",
+      "eseen",
+      "显示玩家的最后登出时间",
+      "/<命令> <玩家名>"
+    ],
+    [
+      "Essentials",
+      "home",
+      "ehome, homes, ehomes",
+      "传送到你的家",
+      "/<命令> [玩家:]<家的名字>"
+    ],
+    [
+      "Essentials",
+      "vanish",
+      "v, ev, evanish",
+      "把自己对其他玩家隐形",
+      "/<命令> [玩家] [on|off]"
+    ],
+    [
+      "Essentials",
+      "tpdeny",
+      "etpdeny, tpno, etpno",
+      "拒绝传送请求",
+      "/<命令> [玩家|*]"
+    ],
+    [
+      "Essentials",
+      "tpohere",
+      "etpohere",
+      "强制传送玩家到我这里忽略tptoggle拒绝传送命令",
+      "/<命令> <玩家>"
+    ],
+    [
+      "Essentials",
+      "getpos",
+      "eposition",
+      "获取你当前的坐标或玩家的坐标",
+      "/<命令> [玩家]"
+    ],
+    [
+      "Essentials",
+      "god",
+      "tgm",
+      "启用你的神力",
+      "/<命令> [玩家] [on|off]"
+    ],
+    [
+      "Essentials",
+      "ping",
+      "echo, eecho, eping, pong, epong",
+      "嘭!",
+      "/<命令>"
+    ],
+    [
+      "Essentials",
+      "helpop",
+      "eamsg",
+      "向在线管理员发送消息",
+      "/<命令> <message>"
+    ],
+    [
+      "Essentials",
+      "skull",
+      "head, playerskull, eskull, ehead, eplayerskull",
+      "获取一个带有你皮肤或指定玩家皮肤的玩家头颅",
+      "/<命令> [owner]"
+    ],
+    [
+      "Essentials",
+      "broadcast",
+      "ebcast, bc, bcast, ebc",
+      "向整个服务器广播消息",
+      "/<命令> <msg>"
+    ],
+    [
+      "Essentials",
+      "clearinventory",
+      "ci, eci, clean, eclean, clear, eclear, clearinvent, eclearinvent, eclearinventory",
+      "清除你物品栏中的所有物品",
+      "/<命令> [玩家|*] [item[:<data>]|*|**] [数量]"
+    ],
+    [
+      "Essentials",
+      "unlimited",
+      "eul",
+      "允许无限放置物品",
+      "/<命令> <list|item|clear> [玩家]"
+    ],
+    [
+      "Essentials",
+      "antioch",
+      "tnt",
+      "给操作员一个小惊喜",
+      "/<命令> [message]"
+    ],
+    [
+      "Essentials",
+      "fireball",
+      "fireskull",
+      "投掷火球或其他各种投掷物",
+      "/<命令> [fireball|small|large|arrow|skull|egg|snowball|expbottle|dragon|splashpotion|lingeringpotion|trident] [speed]"
+    ],
+    [
+      "Essentials",
+      "tpa",
+      "tpask",
+      "请求传送到指定玩家那里",
+      "/<命令> <玩家>"
+    ],
+    [
+      "Essentials",
+      "createkit",
+      "ck",
+      "在游戏中创建一个套件！",
+      "/<命令> <kitname> <delay>"
+    ],
+    [
+      "Essentials",
+      "kitreset",
+      "ekitreset, kitr, ekitr, resetkit, eresetkit",
+      "重置指定套件的冷却时间",
+      "/<命令> <kit> [玩家]"
+    ],
+    [
+      "Essentials",
+      "depth",
+      "eheight",
+      "显示当前深度",
+      "\/depth"
+    ],
+    [
+      "Essentials",
+      "paytoggle",
+      "payon",
+      "切换是否接受一个玩家的支付请求",
+      "/<命令> [玩家]"
+    ],
+    [
+      "Essentials",
+      "eitemdb",
+      "eitemdb",
+      "搜索一个物品",
+      "/<命令> <item>"
+    ],
+    [
+      "Essentials",
+      "itemlore",
+      "lore, elore, ilore, eilore, eitemlore",
+      "编辑物品的附加信息",
+      "/<命令> <add/set/clear> [text/line] [text]"
+    ],
+    [
+      "Essentials",
+      "itemname",
+      "iname, einame, eitemname, itemrename, irename, eitemrename, eirename",
+      "重命名你当前持有的物品。如果要重置名称，请不要填写名称部分。如果你有权限，你还可以添加颜色代码。",
+      "/<命令> [name]"
+    ],
+    [
+      "Essentials",
+      "afk",
+      "eafk, away, eaway",
+      "将你标记为离开键盘(AFK)状态",
+      "/<命令> [玩家\/message...]"
+    ],
+    [
+      "Essentials",
+      "backup",
+      "ebackup",
+      "如果已配置，则执行备份操作",
+      "/<命令>"
+    ],
+    [
+      "Essentials",
+      "burn",
+      "eburn",
+      "点燃一个玩家",
+      "/<命令> <玩家> <seconds>"
+    ],
+    [
+      "Essentials",
+      "customtext",
+      null,
+      "允许你创建自定义文本命令",
+      "/<alias> - Define in bukkit.yml"
+    ],
+    [
+      "Essentials",
+      "eco",
+      "eeco,economy,eeconomy",
+      "管理服务器经济系统",
+      "/<命令> <give|take|set|reset> <玩家> <数量>"
+    ],
+    [
+      "Essentials",
+      "exp",
+      "eexp, xp",
+      "给予、设置或查看玩家的经验值",
+      "/<命令> [show|set|give] [玩家name [数量]]"
+    ],
+    [
+      "Essentials",
+      "feed",
+      "eat,eeat,efeed",
+      "回复饥饿值",
+      "/<命令> [玩家]"
+    ],
+    [
+      "Essentials",
+      "heal",
+      "eheal",
+      "治疗你或指定的玩家",
+      "/<命令> [玩家]"
+    ],
+    [
+      "Essentials",
+      "kit",
+      "ekit,kits,ekits",
+      "获取指定的套件或查看所有可用套件",
+      "/<命令> [kit] [玩家]"
+    ],
+    [
+      "Essentials",
+      "kittycannon",
+      "ekittycannon",
+      "向你的对手扔出一只会爆炸的小猫",
+      "/<命令>"
+    ],
+    [
+      "Essentials",
+      "beezooka",
+      "ebeezooka, beecannon, ebeecannon",
+      "向你的对手扔出一只会爆炸的蜜蜂",
+      "/<命令>"
+    ],
+    [
+      "Essentials",
+      "nick",
+      "enick,nickname,enickname",
+      "更改你或其他玩家的昵称",
+      "/<命令> [玩家] <昵称|off>"
+    ],
+    [
+      "Essentials",
+      "nuke",
+      "enuke",
+      "让死亡从天而降",
+      "/<命令> [玩家]"
+    ],
+    [
+      "Essentials",
+      "pay",
+      "epay",
+      "从你的余额中支付给另一名玩家",
+      "/<命令> <玩家> <数量>"
+    ],
+    [
+      "Essentials",
+      "r",
+      "er,reply,ereply",
+      "快速回复最后一位给你发消息的玩家",
+      "/<命令> <message>"
+    ],
+    [
+      "Essentials",
+      "rtoggle",
+      "ertoggle, replytoggle, ereplytoggle",
+      "改变回复的接收者是上一个接收者还是上一个发送者",
+      "/<命令> [玩家] [on|off]"
+    ],
+    [
+      "Essentials",
+      "sell",
+      "esell",
+      "卖掉你手中的物品",
+      "/<命令> <<itemname>|<id>|hand|inventory|blocks> [数量]"
+    ],
+    [
+      "Essentials",
+      "showkit",
+      "kitpreview,preview,kitshow",
+      "显示套件内容",
+      "/<命令> <kitname>"
+    ],
+    [
+      "Essentials",
+      "tempban",
+      "etempban",
+      "临时封禁用户",
+      "/<命令> <玩家name> <datediff> [原因]"
+    ],
+    [
+      "Essentials",
+      "tempbanip",
+      "etempbanip",
+      "临时封禁IP地址",
+      "/<命令> <玩家name> <datediff> [原因]"
+    ],
+    [
+      "Essentials",
+      "thunder",
+      "ethunder",
+      "开启\/关闭 打雷",
+      "/<命令> <true\/false> [duration]"
+    ],
+    [
+      "Essentials",
+      "tpaccept",
+      "etpaccept,tpyes,etpyes",
+      "接受传送请求",
+      "/<命令> [玩家|*]"
+    ],
+    [
+      "Essentials",
+      "tphere",
+      "s,etphere",
+      "传送玩家到你这里",
+      "/<命令> <玩家>"
+    ],
+    [
+      "Essentials",
+      "tpohere",
+      "etpohere",
+      "无视tptoggle拒绝传送命令，传送玩家到你这里",
+      "/<命令> <玩家>"
+    ],
+    [
+      "Essentials",
+      "tppos",
+      "etppos",
+      "传送到坐标地点",
+      "/<命令> <x> <y> <z> [yaw] [pitch] [world]"
+    ],
+    [
+      "Essentials",
+      "tpr",
+      "etpr, tprandom, etprandom",
+      "随机传送",
+      "/<命令>"
+    ],
+    [
+      "Essentials",
+      "unban",
+      "pardon,eunban,epardon",
+      "解封指定玩家",
+      "/<命令> <玩家>"
+    ],
+    [
+      "Essentials",
+      "unbanip",
+      "eunbanip,pardonip,epardonip",
+      "解封指定IP地址",
+      "/<命令> <address>"
+    ],
+    [
+      "EssentialsSpawn",
+      "setspawn",
+      "esetspawn",
+      "将出生点设置为你当前的位置",
+      "/<命令> <group>"
+    ],
+    [
+      "EssentialsSpawn",
+      "spawn",
+      "espawn",
+      "传送到出生点",
+      "/<命令> [玩家]"
+    ],
+    [
+      "EssentialsXMPP",
+      "setxmpp",
+      null,
+      "设置你的XMPP地址",
+      "/<命令> <address>"
+    ],
+    [
+      "EssentialsXMPP",
+      "xmpp",
+      null,
+      "向玩家发送消息",
+      "/<命令> <玩家> <message>"
+    ],
+    [
+      "EssentialsXMPP",
+      "xmppspy",
+      null,
+      "为所有消息切换XMPP监视",
+      "/<命令> <玩家>"
+    ],
+    [
+      "Essentials",
+      "tpauto",
+      "etpauto",
+      "自动接受传送请求",
+      "/<命令> [玩家]"
+    ],
+    [
+      "Essentials",
+      "delkit",
+      null,
+      "删除指定的套件",
+      "/<命令> <kitname>"
+    ],
+    [
+      "Essentials",
+      "playtime",
+      null,
+      "显示玩家在游戏中的在线时间",
+      "/<命令> [玩家]"
+    ],
+    [
+      "EssentialsDiscord",
+      "discordbroadcast",
+      "dbroadcast, dbc, dbcast, ediscordbroadcast, edbroadcast, edbc, edbcast",
+      "向指定的Discord频道广播消息",
+      "/<命令> <channel> <msg>"
+    ],
+    [
+      "EssentialsDiscord",
+      "discord",
+      "ediscord",
+      "向玩家发送discord邀请链接",
+      "/<命令>"
+    ],
+    [
+      "EssentialsDiscordLink",
+      "link",
+      "elink, discordlink, ediscordlink",
+      "生成代码以将你的Minecraft账户链接到Discord",
+      "/<命令>"
+    ],
+    [
+      "EssentialsDiscordLink",
+      "unlink",
+      "eunlink, discordunlink, ediscordunlink",
+      "解除你的Minecraft账户与任何关联的Discord账户的链接",
+      "/<命令>"
+    ]
+  ]
+}
