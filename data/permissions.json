@@ -874,349 +874,349 @@
       "Essentials",
       "kit",
       "essentials.kit.exemptdelay",
-      "Exempts you from the kit delay feature, this affects signs as well as command."
+      "豁免你于套件延迟特性，这也影响到标志以及命令"
     ],
     [
       "Essentials",
       "kit",
       "essentials.kit.others",
-      "Allows spawning of kits on other players."
+      "允许在其他玩家身上生成套件"
     ],
     [
       "Essentials",
       "kittycannon",
       "essentials.kittycannon",
-      "Allow access to the /kittycannon command"
+      "允许使用 /kittycannon 命令"
     ],
     [
       "Essentials",
       "beezooka",
       "essentials.beezooka",
-      "Allow access to the /beezooka command"
+      "允许使用 /beezooka 命令"
     ],
     [
       "Essentials",
       "lightning",
       "essentials.lightning",
-      "Allow access to the /lightning command."
+      "允许使用 /lightning 命令"
     ],
     [
       "Essentials",
       "lightning",
       "essentials.lightning.others",
-      "Allows use of /lightning [playername]"
+      "允许使用 /lightning [玩家名称]"
     ],
     [
       "Essentials",
       "list",
       "essentials.list",
-      "Allow access to the /list command."
+      "允许使用 /list 命令"
     ],
     [
       "Essentials",
       "list",
       "essentials.list.hidden",
-      "Show hidden users"
+      "显示隐藏的用户"
     ],
     [
       "Essentials",
       "mail",
       "essentials.mail",
-      "Allow access to the /mail command."
+      "允许使用 /mail 命令"
     ],
     [
       "Essentials",
       "mail",
       "essentials.mail.send",
-      "Send mail"
+      "发送邮件"
     ],
     [
       "Essentials",
       "mail",
       "essentials.mail.sendall",
-      "Allows sending mail to all players at the same time"
+      "允许同时向所有玩家发送邮件"
     ],
     [
       "Essentials",
       "mail",
       "essentials.mail.sendtemp",
-      "Allows to send self-destructing mail."
+      "允许发送自毁邮件"
     ],
     [
       "Essentials",
       "me",
       "essentials.me",
-      "Allow access to the /me command."
+      "允许使用 /me 命令"
     ],
     [
       "Essentials",
       "more",
       "essentials.more",
-      "Allows access to the /more command."
+      "允许访问 /more 命令"
     ],
     [
       "Essentials",
       "motd",
       "essentials.motd",
-      "User sees MOTD on connect, and can use the command."
+      "用户连接时看到MOTD，并且可以使用命令"
     ],
     [
       "Essentials",
       "msg",
       "essentials.msg",
-      "Allow access to the /msg command."
+      "允许使用 /msg 命令"
     ],
     [
       "Essentials",
       "msg",
       "essentials.msg.color",
-      "Allows using color codes in /msg command."
+      "允许在 /msg 命令中使用颜色代码"
     ],
     [
       "Essentials",
       "msg",
       "essentials.msg.rgb",
-      "Allows using rgb colors in /msg command."
+      "允许在 /msg 命令中使用rgb颜色"
     ],
     [
       "Essentials",
       "msg",
       "essentials.msg.magic",
-      "Allows to use the matrix/magic color in the /msg command."
+      "允许在 /msg 命令中使用矩阵/magic 颜色"
     ],
     [
       "Essentials",
       "msg",
       "essentials.msg.url",
-      "Allows using urls in the /msg command."
+      "允许在 /msg 命令中使用网址"
     ],
     [
       "Essentials",
       "msg",
       "essentials.msg.format",
-      "Allows to use formatting in the /msg command."
+      "允许在 /msg 命令中使用格式化"
     ],
     [
       "Essentials",
       "msg",
       "essentials.msg.multiple",
-      "This allows you to message multiple users in a single command."
+      " 允许你在单个命令中给多个用户发送消息"
     ],
     [
       "Essentials",
       "msgtoggle",
       "essentials.msgtoggle",
-      "Allows access to the /msgtoggle command"
+      "允许访问 /msgtoggle 命令"
     ],
     [
       "Essentials",
       "mute",
       "essentials.mute",
-      "Allow access to the /mute command."
+      "允许使用 /mute 命令"
     ],
     [
       "Essentials",
       "mute",
       "essentials.mute.exempt",
-      "Prevents a specified group or player from being muted"
+      "防止特定的组或玩家被静音"
     ],
     [
       "Essentials",
       "mute",
       "essentials.mute.unlimited",
-      "Allow overriding the max-mute-time set in the config"
+      "允许覆盖配置中设置的最大静音时间"
     ],
     [
       "Essentials",
       "mute",
       "essentials.mute.offline",
-      "Allows muting of players who are offline. This may allow you to mute exempt players."
+      "允许静音离线玩家。这可能允许你静音豁免玩家"
     ],
     [
       "Essentials",
       "near",
       "essentials.near",
-      "Allow access to the /near command."
+      "允许使用 /near 命令"
     ],
     [
       "Essentials",
       "near",
       "essentials.near.maxexempt",
-      "Allows bypassing the radius limit."
+      "允许绕过半径限制"
     ],
     [
       "Essentials",
       "near",
       "essentials.near.others",
-      "Allows using the near command on another player."
+      "允许在另一个玩家身上使用 /near 命令"
     ],
     [
       "Essentials",
       "near",
       "essentials.near.exclude",
-      "Player gets excluded from /near lookup."
+      "使玩家在 /near 查找时被排除"
     ],
     [
       "Essentials",
       "nick",
       "essentials.nick",
-      "Allow access to the /nick command."
+      "允许使用 /nick 命令"
     ],
     [
       "Essentials",
       "nick",
       "essentials.nick.<color>",
-      "Allows you to color your /nick in <color> using color codes."
+      "允许你使用颜色代码将你的 /nick in <color> 命令中的昵称变成指定的颜色"
     ],
     [
       "Essentials",
       "nick",
       "essentials.nick.blacklist.bypass",
-      "Allow access to bypass the /nick blacklist."
+      "允许绕过 /nick 黑名单"
     ],
     [
       "Essentials",
       "nick",
       "essentials.nick.changecolors",
-      "Allow to **only** change your nickname's colors (And not the name itself)"
+      "仅允许更改你昵称的颜色（而不是昵称本身）"
     ],
     [
       "Essentials",
       "nick",
       "essentials.nick.changecolors.bypass",
-      "Allows to bypass checking if only nickname colors were changed, thus also allowing to change letters."
+      "允许绕过仅检查昵称颜色是否更改的限制，因此也允许更改字母"
     ],
     [
       "Essentials",
       "nick",
       "essentials.nick.rgb",
-      "Gives permission to use hex colors in the /nick command using the &#RRGGBB format."
+      "允许在 /nick 命令中使用&#RRGGBB格式的十六进制颜色"
     ],
     [
       "Essentials",
       "nick",
       "essentials.nick.others",
-      "Gives you permission to give other players a nick name"
+      "允许你给其他玩家设置昵称"
     ],
     [
       "Essentials",
       null,
       "essentials.nocommandcost.all",
-      "Removes the command cost of all commands."
+      "移除所有命令的命令成本"
     ],
     [
       "Essentials",
       "nuke",
       "essentials.nuke",
-      "Allow access to the /nuke command."
+      "允许使用 /nuke 命令"
     ],
     [
       "Essentials",
       "give",
       "essentials.oversizedstacks",
-      "Allows spawning of oversized stacks."
+      "允许生成超大堆叠物品"
     ],
     [
       "Essentials",
       "pay",
       "essentials.pay",
-      "Allow access to the /pay command."
+      "允许使用 /pay 命令"
     ],
     [
       "Essentials",
       "pay",
       "essentials.pay.multiple",
-      "This allows you to pay multiple users in a single command."
+      "允许你在单个命令中支付给多个用户"
     ],
     [
       "Essentials",
       "pay",
       "essentials.pay.offline",
-      "This allows you to pay offline players."
+      " 允许你支付给离线玩家"
     ],
     [
       "Essentials",
       "payconfirmtoggle",
       "essentials.payconfirmtoggle",
-      "Allow access to the /payconfirmtoggle command."
+      "允许使用 /payconfirmtoggle 命令"
     ],
     [
       "Essentials",
       "paytoggle",
       "essentials.paytoggle",
-      "Allow access to the /paytoggle command."
+      "允许使用 /paytoggle 命令"
     ],
     [
       "Essentials",
       "ping",
       "essentials.ping",
-      "Allow access to the /ping command."
+      "允许使用 /ping 命令"
     ],
     [
       "Essentials",
       "potion",
       "essentials.potion.[potionName]",
-      "Allow access to the \"/potion [potionName]\" command "
+      "允许使用 \"/potion [potionName]\" 命令 "
     ],
     [
       "Essentials",
       "potion",
       "essentials.potion.apply",
-      "Allow access to the \"/potion apply\" command"
+      "允许使用 \"/potion apply\" 命令"
     ],
     [
       "Essentials",
       "powertool",
       "essentials.powertool",
-      "Allow access to the /powertool command."
+      "允许使用 /powertool 命令"
     ],
     [
       "Essentials",
       "powertool",
       "essentials.powertool.append",
-      "Allows adding multiple commands to a single powertool."
+      "允许向单个动力工具添加多个命令"
     ],
     [
       "Essentials",
       "powertooltoggle",
       "essentials.powertooltoggle",
-      "Allow access to the /powertooltoggle command."
+      "允许使用 /powertooltoggle 命令"
     ],
     [
       "Essentials",
       "ptime",
       "essentials.ptime",
-      "Allow access to the /ptime command."
+      "允许使用 /ptime 命令"
     ],
     [
       "Essentials",
       "ptime",
       "essentials.ptime.others",
-      "Allows you to change the time of another online player."
+      "允许你更改另一个在线玩家的时间"
     ],
     [
       "Essentials",
       null,
       "essentials.pvpdelay.exempt",
-      "Exempts players from the 'pvp delay' option in the config file."
+      "豁免玩家于配置文件中的'pvp延迟'选项"
     ],
     [
       "Essentials",
       "pweather",
       "essentials.pweather",
-      "Allow access to the /pweather command"
+      "允许使用 /pweather 命令"
     ],
     [
       "Essentials",
       "pweather",
       "essentials.pweather.others",
-      "Allow to change the pweather of someone else"
+      "允许更改其他人的个人天气"
     ],
     [
       "Essentials",
       "r",
       "essentials.msg",
-      "Allow access to the /r command"
+      "允许使用 /r 命令"
     ],
     [
       "Essentials",
