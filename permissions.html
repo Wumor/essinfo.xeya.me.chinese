@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<meta charset="UTF-8">
+<html lang="zh">
+    <head>
+        <title>EssentialsX Info - Permissions</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/bootswatch/4.3.1/darkly/bootstrap.min.css" />
+
+        <style>
+            code {
+                cursor: copy;
+            }
+        </style>
+
+        <script src="https://cdn.datatables.net/v/bs4-4.1.1/jq-3.3.1/dt-1.10.18/datatables.min.js"></script>
+
+        <script src="./includes/notify.min.js"></script>
+
+        <script>
+            $(document).ready(function() {
+                $('#main').DataTable( {
+                    "ajax": './data/permissions.json',
+                    "iDisplayLength": -1,
+                    "paging": false,
+                    "deferRender": true,
+                    "columnDefs": [
+                        {
+                            "targets": [0],
+                            "title": "模块"
+                        },
+                        {
+                            "targets": [1],
+                            "title": "命令"
+                        },
+                        {
+                            "targets": [2],
+                            "title": "权限组",
+                            "render": function (data) {
+                                data = data.replace(/\</g,"&lt;").replace(/\>/g,"&gt;");
+                                return '<code>'+data+'</code>';
+                            },
+                            "width": "30%"
+                        },
+                        {
+                            "targets": [3],
+                            "title": "描述",
+                            "render": function (data) {
+                                data = data.replace(/\</g,"&lt;").replace(/\>/g,"&gt;");
+                                return data;
+                            }
+                        }
+                    ]
+                } );
+
+                fixWidth();
+
+                $('div.dataTables_filter input').focus();
+
+                $.notify.addStyle('copy', {
+                    html: "<div>&#x2714; <span data-notify-text/></div>",
+                    classes: {
+                        base: {
+                        "background-color": "darkgray",
+                        "padding": "5px",
+                        "color": "white"
+                        }
+                    }
+                });
+
+                $('#main').on('click', 'tbody td', function() {
+                    
+                    //get column name
+                    var columnNum = $('#main').DataTable().cell(this).index().column;
+                    var columnName = $('#main').DataTable().column(columnNum).header().innerHTML;
+
+                    if (columnName == "Permission") {
+                        document.getElementById("copyTextarea").value = $('#main').DataTable().cell(this).data();
+                        document.getElementById("copyTextarea").hidden = false;
+                        document.getElementById("copyTextarea").select();
+                        document.execCommand("copy");
+                        document.getElementById("copyTextarea").hidden = true;
+                        $.notify('Copied to clipboard', { style: 'copy', autoHideDelay: 1500, position: "bottom-right"});
+                    }
+
+                });
+            } );
+
+            function fixWidth() {
+                if (getCookie("fullwidth") == "true") {
+                    document.getElementById('maincontainer').classList.remove('container');
+                } else if (getCookie("fullwidth") == "false") {
+                    document.getElementById('maincontainer').classList.add('container');
+                } else {
+                    setCookie("fullwidth", "false");
+                }
+            }
+
+            function changeWidth() {
+                if (getCookie("fullwidth") == "true") {
+                    setCookie("fullwidth", "false");
+                } else {
+                    setCookie("fullwidth", "true");
+                }
+
+                fixWidth()
+            }
+
+            function getCookie(cname) {
+                var name = cname + "=";
+                var decodedCookie = decodeURIComponent(document.cookie);
+                var ca = decodedCookie.split(';');
+                for(var i = 0; i <ca.length; i++) {
+                    var c = ca[i];
+                    while (c.charAt(0) == ' ') {
+                    c = c.substring(1);
+                    }
+                    if (c.indexOf(name) == 0) {
+                    return c.substring(name.length, c.length);
+                    }
+                }
+                return "";
+            }
+
+            function setCookie(cname, cvalue) {
+                var d = new Date();
+                d.setTime(d.getTime() + (365*24*60*60*1000));
+                var expires = "expires="+ d.toUTCString();
+                document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+            }
+        </script>
+    </head>
+
+    <body>
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <a class="navbar-brand" href="../">EssentialsX Info</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+        </button>
+            <div class="collapse navbar-collapse" id="navbarText">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="./index.html">家</a>
+                    </li>
+                    <li class="nav-item active">
+                        <a class="nav-link" href="./permissions.html">权限组</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="./commands.html">命令</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://github.com/EssentialsX/Essentials">GitHub</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://essentialsx.net/downloads.html">下载</a>
+                    </li>
+                </ul>
+                <a href="https://github.com/Xeyame/essinfo.xeya.me"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&color=lightgrey"> </a>
+                <button type="button" class="btn btn-dark ml-2" id="widthSwitch" onclick="changeWidth()">⭾</button>
+            </div>
+        </nav>
+
+        <br>
+        <div class="container" id="maincontainer" style="margin-bottom: 50px; padding-bottom: 15px; border-radius: 5px; padding-left: 30px; padding-right: 30px;">
+            <table class="table table-striped table-sm" style="width:100%" id="main"></table>
+            <input hidden type="text" id="copyTextarea">
+        </div>
+    </body>
+</html>
