@@ -1222,1993 +1222,1993 @@
       "Essentials",
       "rtoggle",
       "essentials.rtoggle",
-      "Allows access to toggle replying to last message recipient"
+      "允许访问切换对最后一个消息接收者的回复的权限"
     ],
     [
       "Essentials",
       "realname",
       "essentials.realname",
-      "Allow access to the /realname command."
+      "允许访问 /realname 命令的权限"
     ],
     [
       "Essentials",
       "recipe",
       "essentials.recipe",
-      "Allow access to the /recipe command."
+      "允许访问 /recipe 命令的权限"
     ],
     [
       "Essentials",
       "remove",
       "essentials.remove",
-      "Allow access to the /remove command."
+      "允许访问 /remove 命令的权限"
     ],
     [
       "Essentials",
       "repair",
       "essentials.repair",
-      "Allow access to the /repair command."
+      "允许访问 /repair 命令的权限"
     ],
     [
       "Essentials",
       "repair",
       "essentials.repair.all",
-      "Unlock the /repair all ability"
+      "解锁 /repair all（修复所有）的能力"
     ],
     [
       "Essentials",
       "repair",
       "essentials.repair.armor",
-      "Repair all also repairs equipped armor."
+      "修复所有同时也会修复装备的盔甲"
     ],
     [
       "Essentials",
       "repair",
       "essentials.repair.enchanted",
-      "Repairing of enchanted items."
+      "允许修复附魔物品"
     ],
     [
       "Essentials",
       "rest",
       "essentials.rest",
-      "Allow access to the /rest command."
+      "允许访问 /rest 命令的权限"
     ],
     [
       "Essentials",
       "rest",
       "essentials.rest.others",
-      "Allow to specify other player in /rest."
+      "允许在 /rest 中指定其他玩家"
     ],
     [
       "Essentials",
       "rules",
       "essentials.rules",
-      "Allow access to the /rules command."
+      "允许访问 /rules 命令的权限"
     ],
     [
       "Essentials",
       "seen",
       "essentials.seen",
-      "Allow access to the /seen command."
+      "允许访问 /seen 命令的权限"
     ],
     [
       "Essentials",
       "seen",
       "essentials.seen.banreason",
-      "Allows the user to see why a user is banned."
+      "允许用户查看用户被封禁的原因"
     ],
     [
       "Essentials",
       "seen",
       "essentials.seen.ip",
-      "Allow to see someone's ip-address in /seen"
+      "允许在 /seen 中查看某人的IP地址"
     ],
     [
       "Essentials",
       "seen",
       "essentials.seen.uuid",
-      "Allow to see someone's uuid in /seen"
+      "允许在 /seen 中查看某人的UUID"
     ],
     [
       "Essentials",
       "seen",
       "essentials.seen.ipsearch",
-      "Allows the user to search IPs for username matches."
+      "允许用户搜索IP以匹配用户名"
     ],
     [
       "Essentials",
       "seen",
       "essentials.seen.location",
-      "Allow to see someone's location in /seen"
+      "允许在 /seen 中查看某人的位置"
     ],
     [
       "Essentials",
       "alts",
       "essentials.seen.alts",
-      "Allows the user to see accounts with the same IP in /seen"
+      "允许用户在 /seen 中查看使用相同IP的账户"
     ],
     [
       "Essentials",
       "sell",
       "essentials.sell",
-      "Allow access to the /sell command."
+      "允许访问 /sell 命令的权限"
     ],
     [
       "Essentials",
       "sell",
       "essentials.sell.bulk",
-      "Allow bulk selling of items"
+      "允许批量出售物品"
     ],
     [
       "Essentials",
       "sell",
       "essentials.sell.hand",
-      "Allow selling of items from your hand"
+      "允许出售手中的物品"
     ],
     [
       "Essentials",
       "home",
       "essentials.home",
-      "Allows access to the /home command"
+      "允许访问 /home 命令的权限"
     ],
     [
       "Essentials",
       "sethome",
       "essentials.sethome",
-      "Allow access to the /sethome command."
+      "允许访问 /sethome 命令的权限"
     ],
     [
       "Essentials",
       null,
       "essentials.sethome.bed",
-      "Allows the player to right click a bed during daytime to update their 'bed' home."
+      "允许玩家在白天点击床来更新他们的 '床' 家"
     ],
     [
       "Essentials",
       null,
       "essentials.sethome.multiple",
-      "Allows player to have multiple homes, or create named homes.  Required for 2+ homes."
+      "允许玩家拥有多个家，或创建命名的家。拥有2个以上家时需要此权限"
     ],
     [
       "Essentials",
       "sethome",
       "essentials.sethome.multiple.[set name]",
-      "Raise the multiple home limit to a setting defined in the config file."
+      "提高多个家的限制到配置文件中定义的设定"
     ],
     [
       "Essentials",
       "home",
       "essentials.sethome.multiple.unlimited",
-      "Removes the cap on the number of homes people are allowed (if they have multiple homes)."
+      "移除对允许拥有家的数量上限的限制（如果他们拥有多个家）"
     ],
     [
       "Essentials",
       "sethome",
       "essentials.sethome.others",
-      "Allows you to change another users home location."
+      "允许你更改其他用户的家的位置"
     ],
     [
       "Essentials",
       "delhome",
       "essentials.delhome",
-      "Allow access to the /delhome command."
+      "允许访问 /delhome 命令的权限"
     ],
     [
       "Essentials",
       "delhome",
       "essentials.delhome.others",
-      "Allows you to delete the homes of other players."
+      "允许你删除其他玩家的家"
     ],
     [
       "Essentials",
       "setjail",
       "essentials.setjail",
-      "Allow access to the /setjail command."
+      "允许访问 /setjail 命令的权限"
     ],
     [
       "Essentials",
       "jail",
       "essentials.jail.notify",
-      "Players with this permission will be notified when someone is jailed."
+      "拥有此权限的玩家在有人被监禁时会收到通知"
     ],
     [
       "EssentialsSpawn",
       "setspawn",
       "essentials.setspawn",
-      "Allow access to the /setspawn command."
+      "允许访问 /setspawn 命令的权限"
     ],
     [
       "Essentials",
       "setwarp",
       "essentials.setwarp",
-      "Allow access to the /setwarp command."
+      "允许访问 /setwarp 命令的权限"
     ],
     [
       "Essentials",
       "setworth",
       "essentials.setworth",
-      "Allow access to the /setworth command."
+      "允许访问 /setworth 命令的权限"
     ],
     [
       "Essentials",
       "showkit",
       "essentials.showkit",
-      "Allow access to the /showkit command."
+      "允许访问 /showkit 命令的权限"
     ],
     [
       "Essentials",
       null,
       "essentials.signs.enchant.allowunsafe",
-      "Allows using [enchant] signs to perform unsafe enchantments"
+      "允许使用 [enchant] 标志来执行不安全的附魔"
     ],
     [
       "Essentials",
       null,
       "essentials.signs.protection.override",
-      "Used to override any protections. Typically given to mods &amp; admins"
+      "用于覆盖任何保护。通常授予给版主和管理员"
     ],
     [
       "Essentials",
       null,
       "essentials.signs.trade.override",
-      "Used to override the creator only protection on trade signs. Typically given to mods &amp; admins"
+      "用于覆盖贸易标志上的只有创建者保护。通常授予给版主和管理员"
     ],
     [
       "Essentials",
       null,
       "essentials.signs.trade.override.collect",
-      "Allow collecting of protected trade signs"
+      "允许收集受保护的贸易标志"
     ],
     [
       "Essentials",
       null,
       "essentials.silentjoin",
-      "Allow to join silently"
+      "允许静默加入"
     ],
     [
       "Essentials",
       null,
       "essentials.silentjoin.vanish",
-      "Allow to join silently, and get put in vanish mode"
+      "允许静默加入，并且进入隐形模式"
     ],
     [
       "Essentials",
       null,
       "essentials.silentquit",
-      "Suppress leave/quit messages for users with this permission."
+      "对于拥有此权限的用户，禁止留下/退出消息"
     ],
     [
       "Essentials",
       "skull",
       "essentials.skull",
-      "Allow access to the /skull command."
+      "允许访问 /skull 命令的权限"
     ],
     [
       "Essentials",
       "skull",
       "essentials.skull.modify",
-      "Allow changing the owner of an existing player skull."
+      "允许更改现有玩家头颅的所有者"
     ],
     [
       "Essentials",
       "skull",
       "essentials.skull.others",
-      "Allow creating skulls belonging to other players."
+      "允许创建属于其他玩家的头颅"
     ],
     [
       "Essentials",
       "skull",
       "essentials.skull.spawn",
-      "Allows the spawning of a skull, default if the player isn't holding a skull."
+      "允许生成一个头颅，默认情况下如果玩家手中没有头颅的话"
     ],
     [
       "Essentials",
       null,
       "essentials.sleepingignored",
-      "User isn't required to be sleeping, for time to be reset."
+      "用户不需要睡觉也可以重置时间"
     ],
     [
       "Essentials",
       "socialspy",
       "essentials.socialspy",
-      "Allow access to the /socialspy command."
+      "允许访问 /socialspy 命令的权限"
     ],
     [
       "EssentialsSpawn",
       "spawn",
       "essentials.spawn",
-      "Allow access to the /spawn command."
+      "允许访问 /spawn 命令的权限"
     ],
     [
       "EssentialsSpawn",
       null,
       "essentials.spawn-on-join.exempt",
-      "Allow to be exempt from forced teleporting to spawn on join"
+      "加入游戏时允许免除被强制传送到出生点的权限"
     ],
     [
       "EssentialsSpawn",
       "spawn",
       "essentials.spawn.others",
-      "Allows you to teleport other people to spawn"
+      "允许你传送其他人到出生点"
     ],
     [
       "Essentials",
       "spawner",
       "essentials.spawner",
-      "Allow access to the /spawner command."
+      "允许访问 /spawner 命令的权限"
     ],
     [
       "Essentials",
       "spawner",
       "essentials.spawner.delay",
-      "Allow access to adjust delay in /spawner command."
+      "允许调整 /spawner 命令中的延迟"
     ],
     [
       "Essentials",
       "spawnmob",
       "essentials.spawnmob",
-      "Allow access to the /spawnmob command."
+      "允许访问 /spawnmob 命令的权限"
     ],
     [
       "Essentials",
       "spawnmob",
       "essentials.spawnmob.stack",
-      "Allows the spawning of stacked mobs."
+      "允许生成堆叠的生物"
     ],
     [
       "Essentials",
       "speed",
       "essentials.speed",
-      "Allow access to the /speed command."
+      "允许访问 /speed 命令的权限"
     ],
     [
       "Essentials",
       "speed",
       "essentials.speed.bypass",
-      "Allows you to bypass the speed limits set in the config.yml"
+      "允许你绕过在 config.yml 文件中设定的速度限制"
     ],
     [
       "Essentials",
       "speed",
       "essentials.speed.fly",
-      "This permission will allow a player to change fly speed only."
+      "该权限将允许玩家只改变飞行速度"
     ],
     [
       "Essentials",
       "speed",
       "essentials.speed.others",
-      "Allows you to modify the speed of other players."
+      "允许你修改其他玩家的速度"
     ],
     [
       "Essentials",
       "speed",
       "essentials.speed.walk",
-      "This permission will allow a player to change walk speed only."
+      "该权限将允许玩家只改变步行速度"
     ],
     [
       "Essentials",
       "sudo",
       "essentials.sudo",
-      "Allow access to the /sudo command."
+      "允许访问 /sudo 命令的权限"
     ],
     [
       "Essentials",
       "sudo",
       "essentials.sudo.exempt",
-      "Prevents the holder from being sudo'ed by another user."
+      "防止持有者被其他用户使用 /sudo 命令"
     ],
     [
       "Essentials",
       "sudo",
       "essentials.sudo.multiple",
-      "Allow access to the /sudo command for multiple people."
+      "允许对多个人使用 /sudo 命令"
     ],
     [
       "Essentials",
       "suicide",
       "essentials.suicide",
-      "Allow access to the /suicide command."
+      "允许访问 /suicide 命令的权限"
     ],
     [
       "Essentials",
       null,
       "essentials.teleport.cooldown.bypass.back",
-      "Allow to bypass the /back command cooldown. Since build 1452, essentials.commandcooldowns.bypass.back can be used instead."
+      "允许绕过 /back 命令的冷却时间。从1452版本开始，也可以使用 essentials.commandcooldowns.bypass.back"
     ],
     [
       "Essentials",
       null,
       "essentials.teleport.cooldown.bypass.tpa",
-      "Allow to bypass the /tpa command cooldown. Since build 1452, essentials.commandcooldowns.bypass.tpa can be used instead."
+      "允许绕过 /tpa 命令的冷却时间。从1452版本开始，也可以使用 essentials.commandcooldowns.bypass.tpa"
     ],
     [
       "Essentials",
       null,
       "essentials.teleport.timer.bypass",
-      "Bypass the teleport delay"
+      "绕过传送延迟"
     ],
     [
       "Essentials",
       null,
       "essentials.teleport.timer.move",
-      "Allows players to move while waiting for teleport."
+      "允许玩家在等待传送时移动"
     ],
     [
       "Essentials",
       "tempban",
       "essentials.tempban",
-      "Allow access to the /tempban command."
+      "允许使用 /tempban 命令"
     ],
     [
       "Essentials",
       "tempban",
       "essentials.tempban.exempt",
-      "Prevents a specified group or player from being tempbanned"
+      "阻止指定的群组或玩家被临时封禁"
     ],
     [
       "Essentials",
       "tempban",
       "essentials.tempban.offline",
-      "Allows temp-banning of players who are offline.  This may allow you to ban exempt players."
+      "允许对离线玩家进行临时封禁。这可能允许你封禁豁免玩家"
     ],
     [
       "Essentials",
       "tempban",
       "essentials.tempban.unlimited",
-      "Allows bypassing config file max ban time limit."
+      "允许绕过配置文件中的最大封禁时间限制."
     ],
     [
       "Essentials",
       "tempbanip",
       "essentials.tempbanip",
-      "Allow access to the /tempbanip command."
+      "允许使用 /tempbanip 命令"
     ],
     [
       "Essentials",
       "thunder",
       "essentials.thunder",
-      "Allow access to the /thunder command."
+      "允许使用 /thunder 命令"
     ],
     [
       "Essentials",
       "time",
       "essentials.time",
-      "Allow access to the /time command."
+      "允许使用 /time 命令"
     ],
     [
       "Essentials",
       "time",
       "essentials.time.set",
-      "User is allowed to change the time of the world."
+      "用户被允许更改世界的时间"
     ],
     [
       "Essentials",
       "time",
       "essentials.time.world.all",
-      "Allow changing time of all worlds"
+      "允许更改所有世界的时间"
     ],
     [
       "Essentials",
       "togglejail",
       "essentials.togglejail",
-      "Allow access to the /togglejail command."
+      "允许使用 /togglejail 命令"
     ],
     [
       "Essentials",
       "togglejail",
       "essentials.togglejail.offline",
-      "Allows jailing of players who are offline.  This may allow you to jail exempt players."
+      "允许对离线玩家进行监禁。这可能允许你监禁豁免玩家"
     ],
     [
       "Essentials",
       "top",
       "essentials.top",
-      "Allow access to the /top command."
+      "允许使用 /top 命令"
     ],
     [
       "Essentials",
       "tp",
       "essentials.tp",
-      "Allow access to the /tp command."
+      "允许使用 /tp 命令"
     ],
     [
       "Essentials",
       "tpauto",
       "essentials.tpauto",
-      "Allow access to the /tpauto command."
+      "允许使用 /tpauto 命令"
     ],
     [
       "Essentials",
       "tpo",
       "essentials.tp.others",
-      "Allow players to teleport another player."
+      "允许玩家传送另一个玩家。"
     ],
     [
       "Essentials",
       "tp",
       "essentials.tp.position",
-      "Allow to teleport to an exact location"
+      "允许传送到一个精确的位置"
     ],
     [
       "Essentials",
       "tpoffline",
       "essentials.tpoffline",
-      "Allow teleporting to a player's logout location using /tpoffline"
+      "使用 /tpoffline 命令允许传送到玩家的登出位置"
     ],
     [
       "Essentials",
       "tpa",
       "essentials.tpa",
-      "Allow access to the /tpa command."
+      "允许使用 /tpa 命令"
     ],
     [
       "Essentials",
       "tpaall",
       "essentials.tpaall",
-      "Allow access to the /tpaall command."
+      "允许使用 /tpaall 命令"
     ],
     [
       "Essentials",
       "tpacancel",
       "essentials.tpacancel",
-      "Allow access to the /tpacancel command."
+      "允许使用 /tpacancel 命令"
     ],
     [
       "Essentials",
       "tpaccept",
       "essentials.tpaccept",
-      "Allow access to the /tpaccept command."
+      "允许使用 /tpaccept 命令"
     ],
     [
       "Essentials",
       "tpahere",
       "essentials.tpahere",
-      "Allow access to the /tpahere command."
+      "允许使用 /tpahere 命令"
     ],
     [
       "Essentials",
       "tpall",
       "essentials.tpall",
-      "Allow access to the /tpall command."
+      "允许使用 /tpall 命令"
     ],
     [
       "Essentials",
       "tpdeny",
       "essentials.tpdeny",
-      "Allow access to the /tpdeny command."
+      "允许使用 /tpdeny 命令"
     ],
     [
       "Essentials",
       "tphere",
       "essentials.tphere",
-      "Allow access to the /tphere command."
+      "允许使用 /tphere 命令"
     ],
     [
       "Essentials",
       "tpo",
       "essentials.tpo",
-      "Allow access to the /tpo command."
+      "允许使用 /tpo 命令"
     ],
     [
       "Essentials",
       "tpohere",
       "essentials.tpohere",
-      "Allow access to the /tpohere command."
+      "允许使用 /tpohere 命令"
     ],
     [
       "Essentials",
       "tppos",
       "essentials.tppos",
-      "Allow access to the /tppos command."
+      "允许使用 /tppos 命令"
     ],
     [
       "Essentials",
       "tptoggle",
       "essentials.tptoggle",
-      "Allow access to the /tptoggle command."
+      "允许使用 /tptoggle 命令"
     ],
     [
       "Essentials",
       "tpr",
       "essentials.tpr",
-      "Allow access to the /tpr command."
+      "允许使用 /tpr 命令"
     ],
     [
       "Essentials",
       "settpr",
       "essentials.settpr",
-      "Allow access to the /settpr command."
+      "允许使用 /settpr 命令"
     ],
     [
       "Essentials",
       "tree",
       "essentials.tree",
-      "Allow access to the /tree command."
+      "允许使用 /tree 命令"
     ],
     [
       "Essentials",
       "unlimited",
       "essentials.unlimited",
-      "Allow access to the /unlimited command."
+      "允许使用 /unlimited 命令"
     ],
     [
       "Essentials",
       "unlimited",
       "essentials.unlimited.item-all",
-      "Allows the player to recieve an unlimited stack of any item."
+      "允许玩家接收任何物品的无限堆叠"
     ],
     [
       "Essentials",
       "unlimited",
       "essentials.unlimited.item-bucket",
-      "Allows the player to recieve an unlimited use of empty/lava/water buckets."
+      "允许玩家接收无限使用的空桶/岩浆桶/水桶"
     ],
     [
       "Essentials",
       "unlimited",
       "essentials.unlimited.others",
-      "Allows the player to gift/remove another player with an unlimited stack."
+      "允许玩家给予/移除其他玩家无限堆叠物品"
     ],
     [
       "Essentials",
       "vanish",
       "essentials.vanish",
-      "Allow access to the /vanish command."
+      "允许使用 /vanish 命令"
     ],
     [
       "Essentials",
       "vanish",
       "essentials.vanish.pvp",
-      "Allows players who are vanished to attack other players."
+      "允许处于隐形状态的玩家攻击其他玩家"
     ],
     [
       "Essentials",
       "vanish",
       "essentials.vanish.see",
-      "Allows you to see a vanished player."
+      "允许你看到隐形的玩家"
     ],
     [
       "Essentials",
       "essentials",
       "essentials.version",
-      "Allow access to the \"/essentials version\" command"
+      "允许使用 \"/essentials version\" 命令"
     ],
     [
       "Essentials",
       "warp",
       "essentials.warp",
-      "Allow access to the /warp command."
+      "允许使用 /warp 命令"
     ],
     [
       "Essentials",
       "warp",
       "essentials.warp.list",
-      "Specifies whether you can view warp list with /warp."
+      "指明是否可以使用 /warp 查看传送点列表"
     ],
     [
       "Essentials",
       "warp",
       "essentials.warp.otherplayers",
-      "Allows warping another player."
+      "允许传送其他玩家"
     ],
     [
       "Essentials",
       "warp",
       "essentials.warp.others",
-      "Allows warping another player."
+      "允许传送其他玩家"
     ],
     [
       "Essentials",
       "warpinfo",
       "essentials.warpinfo",
-      "Allow access to the /warpinfo command."
+      "允许使用 /warpinfo 命令"
     ],
     [
       "Essentials",
       "weather",
       "essentials.weather",
-      "Allow access to the /weather command."
+      "允许使用 /weather 命令"
     ],
     [
       "Essentials",
       "whois",
       "essentials.whois",
-      "Allow access to the /whois command."
+      "允许使用 /whois 命令"
     ],
     [
       "Essentials",
       "workbench",
       "essentials.workbench",
-      "Allow access to the /workbench command."
+      "允许使用 /workbench 命令"
     ],
     [
       "Essentials",
       "anvil",
       "essentials.anvil",
-      "Allow access to the /anvil command."
+      "允许使用 /anvil 命令"
     ],
     [
       "Essentials",
       "cartographytable",
       "essentials.cartographytable",
-      "Allow access to the /cartographytable command."
+      "允许使用 /cartographytable 命令"
     ],
     [
       "Essentials",
       "grindstone",
       "essentials.grindstone",
-      "Allow access to the /grindstone command."
+      "允许使用 /grindstone 命令"
     ],
     [
       "Essentials",
       "loom",
       "essentials.loom",
-      "Allow access to the /loom command."
+      "允许使用 /loom 命令"
     ],
     [
       "Essentials",
       "smithingtable",
       "essentials.smithingtable",
-      "Allow access to the /smithingtable command."
+      "允许使用 /smithingtable 命令"
     ],
     [
       "Essentials",
       "stonecutter",
       "essentials.stonecutter",
-      "Allow access to the /stonecutter command."
+      "允许使用 /stonecutter 命令"
     ],
     [
       "Essentials",
       "world",
       "essentials.world",
-      "Allow access to the /world command."
+      "允许使用 /world 命令"
     ],
     [
       "Essentials",
       "worth",
       "essentials.worth",
-      "Allow access to the /worth command."
+      "允许使用 /worth 命令"
     ],
     [
       "Essentials",
       "fly",
       "essentials.fly.others",
-      "Allow executing the /fly command for someone else."
+      "允许为他人执行 /fly 命令"
     ],
     [
       "Essentials",
       "god",
       "essentials.god.others",
-      "Allow executing the /god command for someone else."
+      "允许为他人执行 /god 命令"
     ],
     [
       "Essentials",
       "msgtoggle",
       "essentials.msgtoggle.others",
-      "Allow executing the /msgtoggle command for someone else."
+      "允许为他人执行 /msgtoggle 命令"
     ],
     [
       "Essentials",
       "socialspy",
       "essentials.socialspy.others",
-      "Allow executing the /socialspy command for someone else."
+      "允许为他人执行 /socialspy 命令"
     ],
     [
       "Essentials",
       "tptoggle",
       "essentials.tptoggle.others",
-      "Allow executing the /tptoggle command for someone else."
+      "允许为他人执行 /tptoggle 命令"
     ],
     [
       "Essentials",
       "vanish",
       "essentials.vanish.others",
-      "Allow executing the /vanish command for someone else."
+      "允许为他人执行 /vanish 命令"
     ],
     [
       "Essentials",
       null,
       "essentials.seen.extra",
-      "Allow to see someone's ip-address and location in /seen"
+      "允许在 /seen 中查看某人的IP地址和位置信息"
     ],
     [
       "Essentials",
       null,
       "essentials.nocommandcost.[command]",
-      "Removes the command cost of a given command."
+      "移除给定命令的命令成本"
     ],
     [
       "Essentials",
       null,
       "essentials.signs.break.balance",
-      "Controls who can break balance signs."
+      "控制谁可以拆除余额标志"
     ],
     [
       "Essentials",
       null,
       "essentials.signs.break.buy",
-      "Controls who can break buy signs."
+      "控制谁可以拆除购买标志"
     ],
     [
       "Essentials",
       null,
       "essentials.signs.break.disposal",
-      "Controls who can break disposal signs."
+      "控制谁可以拆除处理标志"
     ],
     [
       "Essentials",
       null,
       "essentials.signs.break.enchant",
-      "Controls who can break enchant signs."
+      "控制谁可以拆除附魔标志"
     ],
     [
       "Essentials",
       null,
       "essentials.signs.break.free",
-      "Controls who can break free signs."
+      "控制谁可以拆除免费标志"
     ],
     [
       "Essentials",
       null,
       "essentials.signs.break.gamemode",
-      "Controls who can break gamemode signs."
+      "控制谁可以拆除游戏模式标志"
     ],
     [
       "Essentials",
       null,
       "essentials.signs.break.heal",
-      "Controls who can break heal signs."
+      "控制谁可以拆除治疗标志"
     ],
     [
       "Essentials",
       null,
       "essentials.signs.break.info",
-      "Controls who can break info signs."
+      "控制谁可以拆除信息标志"
     ],
     [
       "Essentials",
       null,
       "essentials.signs.break.kit",
-      "Controls who can break kit signs."
+      "控制谁可以拆除工具包标志"
     ],
     [
       "Essentials",
       null,
       "essentials.signs.break.mail",
-      "Controls who can break a mail sign."
+      "控制谁可以拆除邮箱标志"
     ],
     [
       "Essentials",
       null,
       "essentials.signs.break.protection",
-      "Controls who can break a protection sign. Typically given to everybody."
+      "控制谁可以拆除保护标志。通常授予所有人"
     ],
     [
       "Essentials",
       null,
       "essentials.signs.break.repair",
-      "Controls who can break repair signs."
+      "控制谁可以拆除出售标志"
     ],
     [
       "Essentials",
       null,
       "essentials.signs.break.sell",
-      "Controls who can break sell signs."
+      "控制谁可以拆除出售标志"
     ],
     [
       "Essentials",
       null,
       "essentials.signs.break.spawnmob",
-      "Controls who can break spawnmob signs."
+      "控制谁可以拆除生成生物标志"
     ],
     [
       "Essentials",
       null,
       "essentials.signs.break.time",
-      "Controls who can break time signs."
+      "控制谁可以拆除时间标志"
     ],
     [
       "Essentials",
       null,
       "essentials.signs.break.trade",
-      "Controls who can break trade signs."
+      "控制谁可以拆除交易标志"
     ],
     [
       "Essentials",
       null,
       "essentials.signs.break.warp",
-      "Controls who can break warp signs."
+      "控制谁可以拆除传送标志"
     ],
     [
       "Essentials",
       null,
       "essentials.signs.break.weather",
-      "Controls who can break weather signs."
+      "控制谁可以拆除天气标志"
     ],
     [
       "Essentials",
       null,
       "essentials.signs.color",
-      "This allows you to color your signs using color codes."
+      "允许你使用颜色代码为你的标志着色"
     ],
     [
       "Essentials",
       null,
       "essentials.signs.rgb",
-      "This allows you to color your signs using hex color formatting, &#RRGGBB."
+      "允许你使用十六进制颜色格式（&#RRGGBB）为你的标志着色"
     ],
     [
       "Essentials",
       null,
       "essentials.signs.create.balance",
-      "Controls who can create balance signs."
+      "控制谁可以创建余额标志"
     ],
     [
       "Essentials",
       null,
       "essentials.signs.create.buy",
-      "Controls who can create buy signs."
+      "控制谁可以创建购买标志"
     ],
     [
       "Essentials",
       null,
       "essentials.signs.create.disposal",
-      "Controls who can create disposal signs."
+      "控制谁可以创建处理标志"
     ],
     [
       "Essentials",
       null,
       "essentials.signs.create.enchant",
-      "Controls who can create enchant signs."
+      "控制谁可以创建附魔标志"
     ],
     [
       "Essentials",
       null,
       "essentials.signs.create.free",
-      "Controls who can create free signs."
+      "控制谁可以创建免费标志"
     ],
     [
       "Essentials",
       null,
       "essentials.signs.create.gamemode",
-      "Controls who can create gamemode signs."
+      "控制谁可以创建游戏模式标志"
     ],
     [
       "Essentials",
       null,
       "essentials.signs.create.heal",
-      "Controls who can create heal signs."
+      "控制谁可以创建治疗标志"
     ],
     [
       "Essentials",
       null,
       "essentials.signs.create.info",
-      "Controls who can create info signs."
+      "控制谁可以创建信息标志"
     ],
     [
       "Essentials",
       null,
       "essentials.signs.create.kit",
-      "Controls who can create kit signs."
+      "控制谁可以创建工具包标志"
     ],
     [
       "Essentials",
       null,
       "essentials.signs.create.mail",
-      "Controls who can create a mail sign."
+      "控制谁可以创建邮箱标志"
     ],
     [
       "Essentials",
       null,
       "essentials.signs.create.protection",
-      "Controls who can create a protection sign."
+      "控制谁可以创建保护标志"
     ],
     [
       "Essentials",
       null,
       "essentials.signs.create.repair",
-      "Controls who can create repair signs."
+      "控制谁可以创建修复标志"
     ],
     [
       "Essentials",
       null,
       "essentials.signs.create.sell",
-      "Controls who can create sell signs."
+      "控制谁可以创建出售标志"
     ],
     [
       "Essentials",
       null,
       "essentials.signs.create.spawnmob",
-      "Controls who can create spawnmob signs."
+      "控制谁可以创建生成生物标志"
     ],
     [
       "Essentials",
       null,
       "essentials.signs.create.time",
-      "Controls who can create time signs."
+      "控制谁可以创建时间标志"
     ],
     [
       "Essentials",
       null,
       "essentials.signs.create.trade",
-      "Controls who can create trade signs."
+      "控制谁可以创建交易标志"
     ],
     [
       "Essentials",
       null,
       "essentials.signs.create.warp",
-      "Controls who can create warp signs."
+      "控制谁可以创建传送标志"
     ],
     [
       "Essentials",
       null,
       "essentials.signs.create.weather",
-      "Controls who can create weather signs."
+      "控制谁可以创建天气标志"
     ],
     [
       "Essentials",
       null,
       "essentials.signs.format",
-      "This allows you to format your signs using format codes."
+      "允许你使用格式代码来格式化你的标志"
     ],
     [
       "Essentials",
       null,
       "essentials.signs.magic",
-      "This allows you to use the matrix/magic color in your signs."
+      "允许你在你的标志中使用矩阵/魔法颜色"
     ],
     [
       "Essentials",
       null,
       "essentials.signs.use.balance",
-      "Controls who can use balance signs."
+      "控制谁可以使用余额标志"
     ],
     [
       "Essentials",
       null,
       "essentials.signs.use.buy",
-      "Controls who can use buy signs."
+      "控制谁可以使用购买标志"
     ],
     [
       "Essentials",
       null,
       "essentials.signs.use.disposal",
-      "Controls who can use disposal signs."
+      "控制谁可以使用处理标志"
     ],
     [
       "Essentials",
       null,
       "essentials.signs.use.enchant",
-      "Controls who can use enchant signs."
+      "控制谁可以使用附魔标志"
     ],
     [
       "Essentials",
       null,
       "essentials.signs.use.free",
-      "Controls who can use free signs."
+      "控制谁可以使用免费标志"
     ],
     [
       "Essentials",
       null,
       "essentials.signs.use.gamemode",
-      "Controls who can use gamemode signs."
+      "控制谁可以使用游戏模式标志"
     ],
     [
       "Essentials",
       null,
       "essentials.signs.use.heal",
-      "Controls who can use heal signs."
+      "控制谁可以使用治疗标志"
     ],
     [
       "Essentials",
       null,
       "essentials.signs.use.info",
-      "Controls who can use info signs."
+      "控制谁可以使用信息标志"
     ],
     [
       "Essentials",
       null,
       "essentials.signs.use.kit",
-      "Controls who can use kit signs."
+      "控制谁可以使用工具包标志"
     ],
     [
       "Essentials",
       null,
       "essentials.signs.use.mail",
-      "Controls who can use a mail sign."
+      "控制谁可以使用邮箱标志"
     ],
     [
       "Essentials",
       null,
       "essentials.signs.use.protection",
-      "Controls who can use a protection sign. Typically given to everybody."
+      "控制谁可以使用保护标志。通常赋予给每个人"
     ],
     [
       "Essentials",
       null,
       "essentials.signs.use.repair",
-      "Controls who can use repair signs."
+      "控制谁可以使用修复标志"
     ],
     [
       "Essentials",
       null,
       "essentials.signs.use.sell",
-      "Controls who can use sell signs."
+      "控制谁可以使用出售标志"
     ],
     [
       "Essentials",
       null,
       "essentials.signs.use.spawnmob",
-      "Controls who can use spawnmob signs."
+      "控制谁可以使用生成生物标志"
     ],
     [
       "Essentials",
       null,
       "essentials.signs.use.time",
-      "Controls who can use time signs."
+      "控制谁可以使用时间标志"
     ],
     [
       "Essentials",
       null,
       "essentials.signs.use.trade",
-      "Controls who can use trade signs."
+      "控制谁可以使用交易标志"
     ],
     [
       "Essentials",
       null,
       "essentials.signs.use.warp",
-      "Controls who can use warp signs."
+      "控制谁可以使用传送标志"
     ],
     [
       "Essentials",
       null,
       "essentials.signs.use.weather",
-      "Controls who can use weather signs."
+      "控制谁可以使用天气标志"
     ],
     [
       "Essentials",
       "editsign",
       "essentials.editsign",
-      "Allows access to the editsign command"
+      "允许使用editsign命令的权限"
     ],
     [
       "Essentials",
       "editsign",
       "essentials.editsign.unlimited",
-      "Allows access to exceed the 15-character-per-line limit"
+      "允许在使用editsign命令时超出每行15个字符的限制"
     ],
     [
       "Essentials",
       "editsign",
       "essentials.editsign.rgb",
-      "Allows access to hex colors in the /editsign command using the &#RRGGBB format"
+      "允许在使用/editsign命令时使用十六进制颜色格式(&#RRGGBB)"
     ],
     [
       "Essentials",
       "editsign",
       "essentials.editsign.color",
-      "This allows you to use any color code within the /editsign command, NOT including hex colors (&#RRGGBB)."
+      "允许你在/editsign命令中使用任何颜色代码，不包括十六进制颜色(&#RRGGBB)"
     ],
     [
       "Essentials",
       "editsign",
       "essentials.editsign.<color>",
-      "Allows you to /editsign in <color> using color codes."
+      "允许你使用 /editsign <color> 在标志上编辑颜色代码"
     ],
     [
       "Essentials",
       "give",
       "essentials.itemspawn.meta-chapter-[chapter]",
-      "Allow access to the Allows spawning of specific books only, from book.txt./give command."
+      "允许访问Allows spawning of specific books only, from book.txt. /give命令"
     ],
     [
       "Essentials",
       "help",
       "essentials.help.[pluginname]",
-      "Manually adds the commands from a plugin to this group's /help. Name is all lowercase."
+      "手动添加一个插件的命令到这个组的/help。名称全为小写"
     ],
     [
       "Essentials",
       "help",
       "essentials.help.[pluginname].[command]",
-      "Manually adds a command from a plugin to this group's /help. Name is all lowercase."
+      "手动添加一个插件的某个命令到这个组的/help。名称全为小写"
     ],
     [
       "Essentials",
       "togglejail",
       "essentials.jail.allow.<command>",
-      "Allows essentials commands to be used while jailed (requires regular perm)."
+      "允许在监狱中使用essentials命令（需要常规权限）"
     ],
     [
       "Essentials",
       "kit",
       "essentials.kits.*",
-      "Allows access to all created kits"
+      "允许访问所有创建的套装"
     ],
     [
       "Essentials",
       "kit",
       "essentials.kits.[kitname]",
-      "Give access to a single kit, where [kitname] is the name of an existing kit."
+      "给予访问单个套装的权限，其中[kitname]是现有套装的名称"
     ],
     [
       "Essentials",
       "spawner",
       "essentials.spawner.*",
-      "Allows setting a spawner to any mob type"
+      "允许将刷怪笼设置为任意怪物类型"
     ],
     [
       "Essentials",
       "spawner",
       "essentials.spawner.[mob]",
-      "Allows setting a spawner to a specific mob type"
+      "允许将刷怪笼设置为特定的怪物类型"
     ],
     [
       "Essentials",
       "spawner",
       "essentials.spawner.delay",
-      "Allows setting the delay of a spawner."
+      "允许设置刷怪笼的延迟"
     ],
     [
       "Essentials",
       "spawner",
       "essentials.spawnerconvert.*",
-      "Allows placing a spawner of any type"
+      "允许放置任意类型的刷怪笼"
     ],
     [
       "Essentials",
       "spawner",
       "essentials.spawnerconvert.[mob]",
-      "Allows placing a spawner of a specific mob type"
+      "允许放置特定怪物类型的刷怪笼"
     ],
     [
       "Essentials",
       "spawnmob",
       "essentials.spawnmob.*",
-      "Allow the spawning of all mobs"
+      "允许生成所有生物"
     ],
     [
       "Essentials",
       "spawnmob",
       "essentials.spawnmob.[mob]",
-      "Allow access to spawn a specific mob"
+      "允许生成特定的生物"
     ],
     [
       "Essentials",
       "unlimited",
       "essentials.unlimited.item-[itemid]",
-      "Allows the player to recieve an unlimited stack of [itemid]"
+      "允许玩家接收无限堆叠的[itemid]"
     ],
     [
       "Essentials",
       "unlimited",
       "essentials.unlimited.item-[itemname]",
-      "Allows the player to recieve an unlimited stack of [itemname]"
+      "允许玩家接收无限堆叠的[itemname]"
     ],
     [
       "Essentials",
       "setwarp",
       "essentials.warp.overwrite.*",
-      "Allows overwriting of all existing warps."
+      "允许覆盖所有现有的传送点"
     ],
     [
       "Essentials",
       "setwarp",
       "essentials.warp.overwrite.[warpname]",
-      "Allows overwriting of existing warps."
+      "允许覆盖现有的传送点"
     ],
     [
       "Essentials",
       "warp",
       "essentials.warps.*",
-      "Allows access to all warps."
+      "允许访问所有的传送点"
     ],
     [
       "Essentials",
       "warp",
       "essentials.warps.[warpname]",
-      "If you have per-warp-permission set to true in the config.yml then you can limit what warps players can use. This also controls what players would see with /warp and /warpinfo."
+      "如果在config.yml中将per-warp-permission设置为true，则可以限制玩家可以使用的传送点。这也控制玩家将能看到什么使用/warp和/warpinfo"
     ],
     [
       "Essentials",
       "back",
       "essentials.worlds.<worldname>",
-      "Allows players access to a specific world."
+      "允许玩家访问特定的世界"
     ],
     [
       "Essentials",
       "home",
       "essentials.worlds.<worldname>",
-      "Allows players access to a specific world."
+      "允许玩家访问特定的世界"
     ],
     [
       "Essentials",
       "tp",
       "essentials.worlds.<worldname>",
-      "Allows players access to a specific world."
+      "允许玩家访问特定的世界"
     ],
     [
       "Essentials",
       "tpa",
       "essentials.worlds.<worldname>",
-      "Allows players access to a specific world."
+      "允许玩家访问特定的世界"
     ],
     [
       "Essentials",
       "tpaall",
       "essentials.worlds.<worldname>",
-      "Allows players access to a specific world."
+      "允许玩家访问特定的世界"
     ],
     [
       "Essentials",
       "tpahere",
       "essentials.worlds.<worldname>",
-      "Allows players access to a specific world."
+      "允许玩家访问特定的世界"
     ],
     [
       "Essentials",
       "tpall",
       "essentials.worlds.<worldname>",
-      "Allows players access to a specific world."
+      "允许玩家访问特定的世界"
     ],
     [
       "Essentials",
       "tphere",
       "essentials.worlds.<worldname>",
-      "Allows players access to a specific world."
+      "允许玩家访问特定的世界"
     ],
     [
       "Essentials",
       "tpo",
       "essentials.worlds.<worldname>",
-      "Allows players access to a specific world."
+      "允许玩家访问特定的世界"
     ],
     [
       "Essentials",
       "tpohere",
       "essentials.worlds.<worldname>",
-      "Allows players access to a specific world."
+      "允许玩家访问特定的世界"
     ],
     [
       "Essentials",
       "world",
       "essentials.worlds.<worldname>",
-      "Allows players access to a specific world."
+      "允许玩家访问特定的世界"
     ],
     [
       "Essentials",
       "item",
       "essentials.itemspawn.meta-chapter-[chapter]",
-      "Allow access to the Allows spawning of specific books only, from book.txt./give command."
+      "允许从book.txt中仅允许生成特定书籍的访问权限，适用于/give命令"
     ],
     [
       "Essentials",
       "ban",
       "essentials.ban.notify",
-      "Players with this permission will receive a notification when a ban is set."
+      "拥有此权限的玩家将在设置禁令时收到通知"
     ],
     [
       "Essentials",
       "banip",
       "essentials.banip.notify",
-      "Players with this permission will receive a notification when an IP ban is set."
+      "拥有此权限的玩家将在设置IP禁令时收到通知"
     ],
     [
       "Essentials",
       "tempban",
       "essentials.ban.notify",
-      "Players with this permission will receive a notification when a ban is set."
+      "拥有此权限的玩家将在设置禁令时收到通知"
     ],
     [
       "Essentials",
       "unban",
       "essentials.ban.notify",
-      "Players with this permission will receive a notification when a ban is removed."
+      "拥有此权限的玩家将在移除禁令时收到通知"
     ],
     [
       "Essentials",
       "unbanip",
       "essentials.banip.notify",
-      "Players with this permission will receive a notification when an IP ban is removed."
+      "拥有此权限的玩家将在移除IP禁令时收到通知"
     ],
     [
       "Essentials",
       "enchant",
       "essentials.enchantments.[enchantmentname]",
-      "Allows access to each enchantment type."
+      "允许获取每种附魔类型的访问权限"
     ],
     [
       "Essentials",
       "give",
       "essentials.enchantments.[enchantmentname]",
-      "Allows access to each enchantment type."
+      "允许获取每种附魔类型的访问权限"
     ],
     [
       "Essentials",
       "item",
       "essentials.enchantments.[enchantmentname]",
-      "Allows access to each enchantment type."
+      "允许获取每种附魔类型的访问权限"
     ],
     [
       "Essentials",
       "enchant",
       "essentials.enchantments.allowunsafe",
-      "If enabled in the config, this permission allows unsafe enchantments."
+      "如果在配置中启用，此权限允许不安全的附魔"
     ],
     [
       "Essentials",
       "give",
       "essentials.enchantments.allowunsafe",
-      "If enabled in the config, this permission allows unsafe enchantments."
+      "如果在配置中启用，此权限允许不安全的附魔"
     ],
     [
       "Essentials",
       "item",
       "essentials.enchantments.allowunsafe",
-      "If enabled in the config, this permission allows unsafe enchantments."
+      "如果在配置中启用，此权限允许不安全的附魔"
     ],
     [
       "Essentials",
       "give",
       "essentials.itemspawn.item-<itemname>",
-      "If permission-based-item-spawn: Spawn <itemname>"
+      "如果基于权限的物品生成：生成<itemname>"
     ],
     [
       "Essentials",
       "give",
       "essentials.itemspawn.item-[itemid]",
-      "If permission-based-item-spawn: Spawn [itemid]"
+      "如果基于权限的物品生成：生成[itemid]"
     ],
     [
       "Essentials",
       "item",
       "essentials.itemspawn.item-[itemid]",
-      "If permission-based-item-spawn: Spawn [itemid]"
+      "如果基于权限的物品生成：生成[itemid]"
     ],
     [
       "Essentials",
       "item",
       "essentials.itemspawn.item-[itemname]",
-      "If permission-based-item-spawn: Spawn [itemname]"
+      "如果基于权限的物品生成：生成[itemname]"
     ],
     [
       "Essentials",
       "give",
       "essentials.itemspawn.item-all",
-      "If permission-based-item-spawn: Spawn all items"
+      "如果基于权限的物品生成：生成所有物品"
     ],
     [
       "Essentials",
       "item",
       "essentials.itemspawn.item-all",
-      "If permission-based-item-spawn: Spawn all items."
+      "如果基于权限的物品生成：生成所有物品"
     ],
     [
       "Essentials",
       "give",
       "essentials.itemspawn.meta-author",
-      "Allow 'author' meta to be used in item spawning."
+      "允许在物品生成中使用'author'元信息"
     ],
     [
       "Essentials",
       "item",
       "essentials.itemspawn.meta-author",
-      "Allow 'author' meta to be used in item spawning."
+      "允许在物品生成中使用'author'元信息"
     ],
     [
       "Essentials",
       "give",
       "essentials.itemspawn.meta-book",
-      "Allows spawning of books with pre-filled content from books.txt"
+      "允许生成带有books.txt中预填充内容的书籍"
     ],
     [
       "Essentials",
       "item",
       "essentials.itemspawn.meta-book",
-      "Allows spawning of books with pre-filled content from books.txt"
+      "允许生成带有books.txt中预填充内容的书籍"
     ],
     [
       "Essentials",
       "give",
       "essentials.itemspawn.meta-firework",
-      "Allow specific meta for fireworks."
+      "允许特定的烟花元信息"
     ],
     [
       "Essentials",
       "item",
       "essentials.itemspawn.meta-firework",
-      "Allow specific meta for fireworks."
+      "允许特定的烟花元信息"
     ],
     [
       "Essentials",
       "give",
       "essentials.itemspawn.meta-head",
-      "Allows spawning of mob heads."
+      "允许生成怪物头颅"
     ],
     [
       "Essentials",
       "item",
       "essentials.itemspawn.meta-head",
-      "Allows spawning of mob heads."
+      "允许生成怪物头颅"
     ],
     [
       "Essentials",
       "give",
       "essentials.itemspawn.meta-lore",
-      "Allow 'lore' meta to be used in item spawning."
+      "允许在物品生成时使用“lore”元数据"
     ],
     [
       "Essentials",
       "item",
       "essentials.itemspawn.meta-lore",
-      "Allow 'lore' meta to be used in item spawning."
+      "允许在物品生成时使用“lore”元数据"
     ],
     [
       "Essentials",
       "give",
       "essentials.itemspawn.meta-title",
-      "Allow 'title' meta to be used in item spawning."
+      "允许在物品生成时使用“title”元数据"
     ],
     [
       "Essentials",
       "item",
       "essentials.itemspawn.meta-title",
-      "Allow 'title' meta to be used in item spawning."
+      "允许在物品生成时使用“title”元数据"
     ],
     [
       "Essentials",
       "give",
       "essentials.oversizedstacks",
-      "Allows spawning of stacks above normal max stack size"
+      "允许生成超出正常最大堆叠大小的堆叠"
     ],
     [
       "Essentials",
       "item",
       "essentials.oversizedstacks",
-      "Allows spawning of stacks above normal max stack size"
+      "允许生成超出正常最大堆叠大小的堆叠"
     ],
     [
       "Essentials",
       "more",
       "essentials.oversizedstacks",
-      "Allows spawning of oversized stacks."
+      "允许生成超大型堆叠"
     ],
     [
       "Essentials",
       "vanish",
       "essentials.vanish.effect",
-      "Allow adding potion effects when someone goes into vanish"
+      "允许在某人进入隐身状态时添加药水效果"
     ],
     [
       "Essentials",
       "vanish",
       "essentials.vanish.interact",
-      "Allow interacting with vanished players"
+      "允许与隐身的玩家互动"
     ],
     [
       "Essentials",
       "back",
       "essentials.back.into.<worldname>",
-      "Allows access to /back when the destination location is within the specified world"
+      "当目的地位于指定世界内时，允许访问/back命令"
     ],
     [
       "Essentials",
       "whois",
       "essentials.whois.ip",
-      "Allow seeing someones ip address in the /whois command."
+      "允许在/whois命令中查看某人的IP地址"
     ],
     [
       "Essentials",
       "gamemode",
       "essentials.gamemode.creative",
-      "Allow access to the /gamemode creative command. Also requires essentials.gamemode"
+      "允许访问/游戏模式创造命令；此外还需要essentials.gamemode权限"
     ],
     [
       "Essentials",
       "gamemode",
       "essentials.gamemode.survival",
-      "Allow access to the /gamemode survival command. Also requires essentials.gamemode"
+      "允许访问/游戏模式生存命令；此外还需要essentials.gamemode权限"
     ],
     [
       "Essentials",
       "gamemode",
       "essentials.gamemode.adventure",
-      "Allow access to the /gamemode adventure command. Also requires essentials.gamemode"
+      "允许访问/游戏模式冒险命令；此外还需要essentials.gamemode权限"
     ],
     [
       "Essentials",
       "gamemode",
       "essentials.gamemode.spectator",
-      "Allow access to the /gamemode spectator command. Also requires essentials.gamemode"
+      "允许访问/游戏模式观察者命令；此外还需要essentials.gamemode权限"
     ],
     [
       "Essentials",
       "nick",
       "essentials.nick.allowunsafe",
-      "If a player has this, they can set their username to any value. Use with caution, as this has the potential to break userdata files."
+      "如果玩家有这个权限，他们可以将他们的用户名设置为任何值。谨慎使用，因为这有可能破坏用户数据文件"
     ],
     [
       "Essentials",
       "msg",
       "essentials.msgtoggle.bypass",
-      "This permission allows you to send private messages to users that have disabled them with /msgtoggle."
+      "这个权限允许您向那些通过/msgtoggle禁用私人消息的用户发送私人消息"
     ],
     [
       "Essentials",
       "tpauto",
       "essentials.tpauto.others",
-      "Allow using /tpauto for other players"
+      "允许为其他玩家使用/tpauto命令"
     ],
     [
       "Essentials",
       "nick",
       "essentials.nick.color",
-      "Allows to use colors in the /nick command"
+      "允许在/nick命令中使用颜色"
     ],
     [
       "Essentials",
       "nick",
       "essentials.nick.magic",
-      "Allows to use magic effect in the /nick command"
+      "允许在/nick命令中使用魔法效果"
     ],
     [
       "Essentials",
       "nick",
       "essentials.nick.format",
-      "Allows to use formatting in the /nick command"
+      "允许在/nick命令中使用格式设置"
     ],
     [
       "Essentials",
       "back",
       "essentials.keepinv",
-      "Allows the user to keep their inventory on death, instead of dropping it."
+      "允许用户在死亡时保持他们的物品栏，而不是掉落"
     ],
     [
       "Essentials",
       "back",
       "essentials.back.others",
-      "Allows the user to execute the /back command for other players"
+      "允许用户为其他玩家执行/back命令"
     ],
     [
       "Essentials",
       "mute",
       "essentials.mute.notify",
-      "Get notified when an muted player tries to talk"
+      "当一个被静音的玩家试图说话时得到通知"
     ],
     [
       "Essentials",
       "balancetop",
       "essentials.balancetop.exclude",
-      "Players with this permission are excluded from the balancetop"
+      "拥有此权限的玩家将被排除在balancetop之外"
     ],
     [
       "Essentials",
       "hat",
       "essentials.hat.prevent-type.<item-name>",
-      "Give this permission to users to prevent them using this type of item in /hat"
+      "给予此权限给用户以阻止他们在/hat命令中使用此类物品"
     ],
     [
       "Essentials",
       "hat",
       "essentials.hat.ignore-binding",
-      "Disable blocking the removing of hats with curse of binding"
+      "禁用阻止带上诅咒的绑定物品作为帽子的功能"
     ],
     [
       "Essentials",
       "playtime",
       "essentials.playtime",
-      "Shows a player's time played in game"
+      " 显示玩家在游戏中的游玩时间"
     ],
     [
       "Essentials",
       "playtime",
       "essentials.playtime.others",
-      "Shows a player's time played in game"
+      "显示其他玩家在游戏中的游玩时间"
     ],
     [
       "EssentialsChat",
       null,
       "essentials.chat.color",
-      "This allows you to color your chat messages in any color using color codes, NOT including hex colors (&#RRGGBB)."
+      "允许你使用颜色代码（不包括十六进制颜色 &#RRGGBB）来给你的聊天信息上色"
     ],
     [
       "EssentialsChat",
       null,
       "essentials.chat.<color>",
-      "This allows you to color your chat messages in <color> using color codes."
+      "允许你使用特定的颜色代码来给你的聊天信息上色"
     ],
     [
       "EssentialsChat",
       null,
       "essentials.chat.format",
-      "This allows you to format your chat messages using format codes."
+      "允许你使用格式代码来格式化你的聊天信息"
     ],
     [
       "EssentialsChat",
       null,
       "essentials.chat.magic",
-      "This allows you to use the matrix/magic color in your chat messages."
+      "允许你在你的聊天信息中使用矩阵/魔法颜色"
     ],
     [
       "EssentialsChat",
       null,
       "essentials.chat.rgb",
-      "This allows you to use hex color formatting in your chat messages. Format is &#RRGGBB."
+      "允许你在聊天信息中使用十六进制颜色格式。格式为 &#RRGGBB"
     ],
     [
       "EssentialsChat",
       null,
       "essentials.chat.question",
-      "This allows you to send global questions, used if a chat-radius is configured."
+      " 允许你发送全局问题，如果配置了聊天半径则会使用此功能"
     ],
     [
       "EssentialsChat",
       null,
       "essentials.chat.shout",
-      "This allows you to send global messages, used if a chat-raidus is configured."
+      "允许你发送全局信息，如果配置了聊天半径则会使用此功能"
     ],
     [
       "EssentialsChat",
       null,
       "essentials.toggleshout",
-      "Toggles whether you are talking in shout mode."
+      "切换你是否处于大喊模式进行对话"
     ],
     [
       "EssentialsChat",
       null,
       "essentials.toggleshout.others",
-      "Toggles shout mode for other players."
+      "切换其他玩家的大喊模式"
     ],
     [
       "EssentialsChat",
       null,
       "essentials.chat.spy",
-      "A permission designed for admins, to intercept all local messages (ignoring the chat-radius)."
+      " 一项为管理员设计的权限，用于拦截所有本地信息（忽略聊天半径）"
     ],
     [
       "EssentialsChat",
       null,
       "essentials.chat.url",
-      "This allows you to use urls in your chat messages."
+      "允许你在聊天信息中使用网址"
     ],
     [
       "EssentialsChat",
       null,
       "essentials.chat.local",
-      "Allow to send messages to local chat. Given to all players by default."
+      "允许发送本地聊天信息。默认授予所有玩家"
     ],  
     [
       "EssentialsChat",
       null,
       "essentials.chat.receive.local",
-      "Permission allowing to recieve local chat. Given to all players by default."
+      "允许接收本地聊天。默认授予所有玩家"
     ],
     [
       "EssentialsChat",
       null,
       "essentials.chat.receive.shout",
-      "Permission allowing to recieve shouts. Given to all players by default."
+      "允许接收大喊。默认授予所有玩家"
     ],
     [
       "EssentialsChat",
       null,
       "essentials.chat.receive.question",
-      "Permission allowing to recieve questions. Given to all players by default."
+      " 允许接收问题。默认授予所有玩家"
     ],
     [
       "EssentialsAntiBuild",
       null,
       "essentials.build",
-      "Allows people to build when using permission systems which don't support build toggles."
+      "当使用不支持建筑切换的权限系统时，允许玩家建筑"
     ],
     [
       "EssentialsAntiBuild",
       null,
       "essentials.build.<action>.<material>",
-      "Allows executing <action> for <material>, action being place, break, interact, craft, drop or pickup."
+      "允许对执行，动作包括放置、破坏、互动、制作、掉落或捡起"
     ],
     [
       "EssentialsAntiBuild",
       null,
       "essentials.protect.alerts",
-      "Allows a player to recieve protect alerts."
+      "允许玩家接收保护警报"
     ],
     [
       "EssentialsAntiBuild",
       null,
       "essentials.protect.alerts.notrigger",
-      "Users with this permission do not trigger protect alerts."
+      "拥有此权限的用户不会触发保护警报"
     ],
     [
       "EssentialsAntiBuild",
       null,
       "essentials.protect.exemptbreak",
-      "Allows a player to ignore the break blacklist."
+      "允许玩家忽略破坏黑名单"
     ],
     [
       "EssentialsAntiBuild",
       null,
       "essentials.protect.exemptplacement",
-      "Allows a player to ignore the block placement blacklist."
+      "允许玩家忽略方块放置黑名单"
     ],
     [
       "EssentialsAntiBuild",
       null,
       "essentials.protect.exemptusage",
-      "Allows a player to ignore the usage blacklist."
+      "允许玩家忽略使用黑名单"
     ],
     [
       "EssentialsProtect",
       null,
       "essentials.protect.entitytarget.bypass",
-      "Allows a player to be targeted by mobs."
+      "允许玩家受到怪物的攻击"
     ],
     [
       "EssentialsProtect",
       null,
       "essentials.protect.pvp",
-      "When prevent PVP is set to true, this allows players to still PVP. Both attacker and defender need to have this permission."
+      "当设置为真时防止PVP，此权限允许玩家仍然可以PVP。攻击者和防御者都需要有这个权限"
     ],
     [
       "EssentialsProtect",
       null,
       "essentials.protect.damage.disable",
-      "Admin override to prevent admins from dying"
+      "管理员覆盖以防止管理员死亡"
     ],
     [
       "EssentialsProtect",
       null,
       "essentials.protect.damage.contact",
-      "Player will receive contact damage"
+      "玩家将会受到接触伤害"
     ],
     [
       "EssentialsProtect",
       null,
       "essentials.protect.damage.creeper",
-      "Player will receive creeper damage"
+      "玩家将会受到爬行者伤害"
     ],
     [
       "EssentialsProtect",
       null,
       "essentials.protect.damage.drowning",
-      "Player will receive drowning damage"
+      "玩家将会受到溺水伤害"
     ],
     [
       "EssentialsProtect",
       null,
       "essentials.protect.damage.fall",
-      "Player will receive fall damage"
+      "玩家将会受到摔落伤害"
     ],
     [
       "EssentialsProtect",
       null,
       "essentials.protect.damage.fire",
-      "Player will receive fire damage"
+      "玩家将会受到火焰伤害"
     ],
     [
       "EssentialsProtect",
       null,
       "essentials.protect.damage.fireball",
-      "Player will receive fireball damage"
+      "玩家将会受到火球伤害"
     ],
     [
       "EssentialsProtect",
       null,
       "essentials.protect.damage.lava",
-      "Player will receive lava damage"
+      "玩家将会受到岩浆伤害"
     ],
     [
       "EssentialsProtect",
       null,
       "essentials.protect.damage.lightning",
-      "Player will receive lightning damage"
+      "玩家将会受到雷击伤害"
     ],
     [
       "EssentialsProtect",
       null,
       "essentials.protect.damage.projectiles",
-      "Player will receive projectile damage"
+      "玩家将会受到投射物伤害"
     ],
     [
       "EssentialsProtect",
       null,
       "essentials.protect.damage.suffocation",
-      "Player will receive suffocation damage"
+      "玩家将会受到窒息伤害"
     ],
     [
       "EssentialsProtect",
       null,
       "essentials.protect.damage.tnt",
-      "Player will receive tnt damage"
+      "玩家将会受到TNT爆炸伤害"
     ],
     [
       "EssentialsXMPP",
       "setxmpp",
       "essentials.setxmpp",
-      "Allow access to the /setxmpp command."
+      "允许使用/setxmpp命令"
     ],
     [
       "EssentialsXMPP",
       "xmpp",
       "essentials.xmpp",
-      "Allow access to the /xmpp command."
+      "允许使用/xmpp命令"
     ],
     [
       "EssentialsXMPP",
       "xmppspy",
       "essentials.xmppspy",
-      "Allow access to the /xmppspy command."
+      "允许使用/xmppspy命令"
     ],
     [
       "EssentialsGeoIP",
       null,
       "essentials.geoip.hide",
-      "Allows you to hide your country and city from people who have permission essentials.geoip.show"
+      "许你隐藏自己的国家和城市信息，不显示给有essentials.geoip.show权限的人"
     ],
     [
       "EssentialsGeoIP",
       "whois",
       "essentials.geoip.show",
-      "Shows the GeoIP location of a player, if the GeoIP module is installed."
+      "如果安装了GeoIP模块，显示玩家的GeoIP位置信息"
     ],
     [
       "EssentialsDiscord",
       "discord",
       "essentials.discord",
-      "Allow access to the /discord command."
+      "允许使用/discord命令"
     ],
     [
       "EssentialsDiscord",
       null,
       "essentials.discord.receive.<group>",
-      "Allows user to receive chat messages from the specified discord channel"
+      "允许用户从指定的Discord频道接收聊天信息"
     ],
     [
       "EssentialsDiscord",
       null,
       "essentials.discord.markdown",
-      "Allows user to bypass the discord markdown filter"
+      "允许用户绕过Discord的Markdown格式过滤器"
     ],
     [
       "EssentialsDiscord",
       null,
       "essentials.discord.ping",
-      "Allows user to ping everyone/role/here from mc in discord (bypass ping filters)"
+      "允许用户在Discord中ping所有人/角色/此处（绕过ping过滤器）"
     ],
     [
       "EssentialsDiscord",
       "discordbroadcast",
       "essentials.discordbroadcast",
-      "Allow access to the /discordbroadcast command."
+      "允许使用/discordbroadcast命令"
     ],
     [
       "EssentialsDiscord",
       "discordbroadcast",
       "essentials.discordbroadcast.markdown",
-      "Allow to use markdown in the /discordbroadcast command."
+      "允许在/discordbroadcast命令中使用Markdown格式"
     ],
     [
       "EssentialsDiscord",
       "discordbroadcast",
       "essentials.discordbroadcast.ping",
-      "Allow to ping discord roles, @here or @everyone in the /discordbroadcast command."
+      "允许在/discordbroadcast命令中ping Discord角色、@here或@everyone"
     ],
     [
       "EssentialsDiscord",
       "discordbroadcast",
       "essentials.discordbroadcast.<channel_name>",
-      "Allow to send broadcasts in the specific discord channel."
+      "允许在指定的Discord频道中发送广播信息"
     ],
     [
       "EssentialsDiscordLink",
       "link",
       "essentials.link",
-      "Allow access to the /link command."
+      "允许使用/link命令"
     ],
     [
       "EssentialsDiscordLink",
       "unlink",
       "essentials.unlink",
-      "Allow access to the /unlink command."
+      "允许使用/unlink命令"
     ]
   ]
 }
